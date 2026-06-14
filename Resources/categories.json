@@ -1,0 +1,3627 @@
+{
+  "categories": [
+    {
+      "id": "navegadores",
+      "name": "Navegadores",
+      "icon": "🌐",
+      "programs": [
+        {
+          "name": "Google Chrome",
+          "winget": "Google.Chrome",
+          "choco": "googlechrome",
+          "description": "Navegador web Google Chrome"
+        },
+        {
+          "name": "Mozilla Firefox",
+          "winget": "Mozilla.Firefox",
+          "choco": "firefox",
+          "description": "Navegador web Mozilla Firefox"
+        },
+        {
+          "name": "Firefox ESR",
+          "winget": "Mozilla.Firefox.ESR",
+          "choco": "firefoxesr",
+          "description": "Versao ESR do Firefox"
+        },
+        {
+          "name": "Microsoft Edge",
+          "winget": "Microsoft.Edge",
+          "choco": "microsoft-edge",
+          "description": "Navegador Microsoft Edge"
+        },
+        {
+          "name": "Microsoft Edge Beta",
+          "winget": "Microsoft.Edge.Beta",
+          "choco": "",
+          "description": "Versao Beta do Microsoft Edge"
+        },
+        {
+          "name": "Microsoft Edge Dev",
+          "winget": "Microsoft.Edge.Dev",
+          "choco": "",
+          "description": "Versao Dev do Microsoft Edge"
+        },
+        {
+          "name": "Brave Browser",
+          "winget": "Brave.Brave",
+          "choco": "brave",
+          "description": "Navegador Brave focado em privacidade"
+        },
+        {
+          "name": "Brave Browser Nightly",
+          "winget": "Brave.Brave.Nightly",
+          "choco": "",
+          "description": "Versao Nightly do Brave"
+        },
+        {
+          "name": "Opera Browser",
+          "winget": "Opera.Opera",
+          "choco": "opera",
+          "description": "Navegador web Opera"
+        },
+        {
+          "name": "Opera GX",
+          "winget": "Opera.OperaGX",
+          "choco": "operagx",
+          "description": "Navegador Opera para gamers"
+        },
+        {
+          "name": "Vivaldi",
+          "winget": "Vivaldi.Vivaldi",
+          "choco": "vivaldi",
+          "description": "Navegador Vivaldi personalizavel"
+        },
+        {
+          "name": "Tor Browser",
+          "winget": "TorProject.TorBrowser",
+          "choco": "tor-browser",
+          "description": "Navegador Tor focado em anonimato"
+        },
+        {
+          "name": "Chromium",
+          "winget": "Chromium.Chromium",
+          "choco": "chromium",
+          "description": "Navegador Chromium (codigo aberto)"
+        },
+        {
+          "name": "Ungoogled Chromium",
+          "winget": "ungoogled-software.ungoogled-chromium",
+          "choco": "",
+          "description": "Chromium sem servicos Google"
+        },
+        {
+          "name": "Pale Moon",
+          "winget": "MoonchildProductions.PaleMoon",
+          "choco": "palemoon",
+          "description": "Navegador Pale Moon otimizado"
+        },
+        {
+          "name": "Waterfox",
+          "winget": "Waterfox.Waterfox",
+          "choco": "waterfox",
+          "description": "Navegador Waterfox"
+        },
+        {
+          "name": "SeaMonkey",
+          "winget": "SeaMonkey.SeaMonkey",
+          "choco": "seamonkey",
+          "description": "Suite de internet SeaMonkey"
+        },
+        {
+          "name": "Maxthon",
+          "winget": "Maxthon.Maxthon",
+          "choco": "maxthon",
+          "description": "Navegador web Maxthon"
+        },
+        {
+          "name": "Slimjet",
+          "winget": "Slimjet.Slimjet",
+          "choco": "",
+          "description": "Navegador Slimjet"
+        },
+        {
+          "name": "Yandex Browser",
+          "winget": "Yandex.Browser",
+          "choco": "yandex-browser",
+          "description": "Navegador Yandex"
+        },
+        {
+          "name": "Comodo Dragon",
+          "winget": "Comodo.Dragon",
+          "choco": "comodo-dragon",
+          "description": "Navegador Comodo Dragon seguro"
+        },
+        {
+          "name": "SRWare Iron",
+          "winget": "SRWare.Iron",
+          "choco": "iron",
+          "description": "Navegador SRWare Iron"
+        },
+        {
+          "name": "Epic Privacy Browser",
+          "winget": "EpicPrivacy.EpicPrivacyBrowser",
+          "choco": "",
+          "description": "Navegador focado em privacidade"
+        },
+        {
+          "name": "Falkon",
+          "winget": "Falkon.Falkon",
+          "choco": "falkon",
+          "description": "Navegador KDE Falkon"
+        },
+        {
+          "name": "Midori",
+          "winget": "Midori.Midori",
+          "choco": "midori",
+          "description": "Navegador leve Midori"
+        },
+        {
+          "name": "Cent Browser",
+          "winget": "CentBrowser.CentBrowser",
+          "choco": "",
+          "description": "Navegador Cent Browser"
+        },
+        {
+          "name": "Firefox Developer Edition",
+          "winget": "Mozilla.Firefox.DeveloperEdition",
+          "choco": "firefox-dev",
+          "description": "Firefox para desenvolvedores"
+        },
+        {
+          "name": "Firefox Nightly",
+          "winget": "Mozilla.Firefox.Nightly",
+          "choco": "firefox-nightly",
+          "description": "Versao Nightly do Firefox"
+        },
+        {
+          "name": "Opera Beta",
+          "winget": "Opera.OperaBeta",
+          "choco": "opera-beta",
+          "description": "Versao Beta do Opera"
+        },
+        {
+          "name": "Opera Developer",
+          "winget": "Opera.OperaDeveloper",
+          "choco": "",
+          "description": "Versao Developer do Opera"
+        },
+        {
+          "name": "Vivaldi Snapshot",
+          "winget": "Vivaldi.Vivaldi.Snapshot",
+          "choco": "",
+          "description": "Versao Snapshot do Vivaldi"
+        },
+        {
+          "name": "Brave Browser Beta",
+          "winget": "Brave.Brave.Beta",
+          "choco": "",
+          "description": "Versao Beta do Brave"
+        },
+        {
+          "name": "QuteBrowser",
+          "winget": "qutebrowser.qutebrowser",
+          "choco": "qutebrowser",
+          "description": "Navegador baseado em teclado"
+        },
+        {
+          "name": "Kiwi Browser",
+          "winget": "KiwiBrowser.KiwiBrowser",
+          "choco": "",
+          "description": "Navegador com suporte a extensoes"
+        },
+        {
+          "name": "Samsung Internet",
+          "winget": "Samsung.SamsungInternet",
+          "choco": "",
+          "description": "Navegador Samsung Internet"
+        },
+        {
+          "name": "Naver Whale",
+          "winget": "Naver.Whale",
+          "choco": "",
+          "description": "Navegador Naver Whale"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao",
+      "name": "Comunicacao",
+      "icon": "💬",
+      "programs": [
+        {
+          "name": "Discord",
+          "winget": "Discord.Discord",
+          "choco": "discord",
+          "description": "Plataforma de chat e voz"
+        },
+        {
+          "name": "Slack",
+          "winget": "SlackTechnologies.Slack",
+          "choco": "slack",
+          "description": "Comunicacao empresarial"
+        },
+        {
+          "name": "Microsoft Teams",
+          "winget": "Microsoft.Teams",
+          "choco": "microsoft-teams",
+          "description": "Colaboracao Microsoft Teams"
+        },
+        {
+          "name": "Zoom",
+          "winget": "Zoom.Zoom",
+          "choco": "zoom",
+          "description": "Videoconferencias online"
+        },
+        {
+          "name": "WhatsApp",
+          "winget": "WhatsApp.WhatsApp",
+          "choco": "whatsapp",
+          "description": "Mensageiro WhatsApp"
+        },
+        {
+          "name": "Telegram",
+          "winget": "Telegram.TelegramDesktop",
+          "choco": "telegram",
+          "description": "Mensageiro Telegram"
+        },
+        {
+          "name": "Signal",
+          "winget": "OpenWhisperSystems.Signal",
+          "choco": "signal",
+          "description": "Mensageiro Signal criptografado"
+        },
+        {
+          "name": "Skype",
+          "winget": "Microsoft.Skype",
+          "choco": "skype",
+          "description": "Chamadas e mensagens Skype"
+        },
+        {
+          "name": "Thunderbird",
+          "winget": "Mozilla.Thunderbird",
+          "choco": "thunderbird",
+          "description": "Cliente de email Thunderbird"
+        },
+        {
+          "name": "Mailbird",
+          "winget": "Mailbird.Mailbird",
+          "choco": "mailbird",
+          "description": "Cliente de email Mailbird"
+        },
+        {
+          "name": "eM Client",
+          "winget": "eMClient.eMClient",
+          "choco": "emclient",
+          "description": "Cliente de email eM Client"
+        },
+        {
+          "name": "Rambox",
+          "winget": "Rambox.Rambox",
+          "choco": "rambox",
+          "description": "Centralizador de mensagens"
+        },
+        {
+          "name": "Franz",
+          "winget": "Franz.Franz",
+          "choco": "franz",
+          "description": "Centralizador de mensagens Franz"
+        },
+        {
+          "name": "Ferdium",
+          "winget": "Ferdium.Ferdium",
+          "choco": "",
+          "description": "Centralizador de mensagens Ferdium"
+        },
+        {
+          "name": "Element",
+          "winget": "Element.Element",
+          "choco": "element",
+          "description": "Cliente Matrix descentralizado"
+        },
+        {
+          "name": "Jitsi Meet",
+          "winget": "Jitsi.JitsiMeet",
+          "choco": "",
+          "description": "Videoconferencia Jitsi"
+        },
+        {
+          "name": "TeamSpeak 5",
+          "winget": "TeamSpeak.TeamSpeak5",
+          "choco": "teamspeak",
+          "description": "Comunicacao por voz TeamSpeak"
+        },
+        {
+          "name": "Mumble",
+          "winget": "Mumble.Mumble",
+          "choco": "mumble",
+          "description": "Chat por voz Mumble"
+        },
+        {
+          "name": "Tox",
+          "winget": "Tox.Tox",
+          "choco": "tox",
+          "description": "Mensageiro seguro Tox"
+        },
+        {
+          "name": "Ricochet",
+          "winget": "Ricochet.Ricochet",
+          "choco": "",
+          "description": "Mensageiro anonimo Ricochet"
+        },
+        {
+          "name": "Pidgin",
+          "winget": "Pidgin.Pidgin",
+          "choco": "pidgin",
+          "description": "Cliente de mensagens Pidgin"
+        },
+        {
+          "name": "HexChat",
+          "winget": "HexChat.HexChat",
+          "choco": "hexchat",
+          "description": "Cliente IRC HexChat"
+        },
+        {
+          "name": "Trillian",
+          "winget": "Trillian.Trillian",
+          "choco": "",
+          "description": "Mensageiro Trillian"
+        },
+        {
+          "name": "Wire",
+          "winget": "Wire.Wire",
+          "choco": "wire-desktop",
+          "description": "Mensageiro Wire seguro"
+        },
+        {
+          "name": "Keybase",
+          "winget": "Keybase.Keybase",
+          "choco": "keybase",
+          "description": "Mensageiro Keybase"
+        },
+        {
+          "name": "Session",
+          "winget": "Session.Session",
+          "choco": "",
+          "description": "Mensageiro Session privado"
+        },
+        {
+          "name": "Briar",
+          "winget": "Briar.Briar",
+          "choco": "",
+          "description": "Mensageiro Briar off-grid"
+        },
+        {
+          "name": "qTox",
+          "winget": "qTox.qTox",
+          "choco": "qtox",
+          "description": "Cliente Tox qTox"
+        },
+        {
+          "name": "Steam Chat",
+          "winget": "Valve.Steam",
+          "choco": "",
+          "description": "Chat integrado ao Steam"
+        },
+        {
+          "name": "Twitch",
+          "winget": "Twitch.Twitch",
+          "choco": "twitch",
+          "description": "Plataforma de streaming Twitch"
+        },
+        {
+          "name": "YouTube Music",
+          "winget": "Google.YouTubeMusic",
+          "choco": "",
+          "description": "YouTube Music Desktop"
+        },
+        {
+          "name": "Caprine",
+          "winget": "Caprine.Caprine",
+          "choco": "",
+          "description": "Cliente Facebook Messenger"
+        },
+        {
+          "name": "Android Messages",
+          "winget": "Google.AndroidMessages",
+          "choco": "",
+          "description": "Cliente Android Messages"
+        },
+        {
+          "name": "Telegram Portable",
+          "winget": "Telegram.TelegramDesktop.Portable",
+          "choco": "",
+          "description": "Versao portable do Telegram"
+        },
+        {
+          "name": "Microsoft Teams Classic",
+          "winget": "Microsoft.Teams.Classic",
+          "choco": "",
+          "description": "Versao Classic do Teams"
+        },
+        {
+          "name": "BlueStacks",
+          "winget": "BlueStacks.BlueStacks",
+          "choco": "bluestacks",
+          "description": "Emulador Android BlueStacks"
+        }
+      ]
+    },
+    {
+      "id": "desenvolvimento",
+      "name": "Desenvolvimento",
+      "icon": "💻",
+      "programs": [
+        {
+          "name": "Visual Studio Code",
+          "winget": "Microsoft.VisualStudioCode",
+          "choco": "vscode",
+          "description": "Editor de codigo Microsoft"
+        },
+        {
+          "name": "Visual Studio 2022 Community",
+          "winget": "Microsoft.VisualStudio.2022.Community",
+          "choco": "visualstudio2022community",
+          "description": "IDE Visual Studio 2022"
+        },
+        {
+          "name": "Visual Studio 2022 Professional",
+          "winget": "Microsoft.VisualStudio.2022.Professional",
+          "choco": "",
+          "description": "IDE Visual Studio 2022 Pro"
+        },
+        {
+          "name": "Git",
+          "winget": "Git.Git",
+          "choco": "git",
+          "description": "Controle de versao Git"
+        },
+        {
+          "name": "GitHub Desktop",
+          "winget": "GitHub.GitHubDesktop",
+          "choco": "github-desktop",
+          "description": "Cliente GitHub Desktop"
+        },
+        {
+          "name": "GitKraken",
+          "winget": "GitKraken.GitKraken",
+          "choco": "gitkraken",
+          "description": "Cliente Git grafico"
+        },
+        {
+          "name": "Sourcetree",
+          "winget": "Atlassian.Sourcetree",
+          "choco": "sourcetree",
+          "description": "Cliente Git Atlassian"
+        },
+        {
+          "name": "Python 3.12",
+          "winget": "Python.Python.3.12",
+          "choco": "python",
+          "description": "Linguagem Python 3.12"
+        },
+        {
+          "name": "Python 3.13",
+          "winget": "Python.Python.3.13",
+          "choco": "",
+          "description": "Linguagem Python 3.13"
+        },
+        {
+          "name": "Node.js LTS",
+          "winget": "OpenJS.NodeJS.LTS",
+          "choco": "nodejs-lts",
+          "description": "Runtime Node.js LTS"
+        },
+        {
+          "name": "Node.js",
+          "winget": "OpenJS.NodeJS",
+          "choco": "nodejs",
+          "description": "Runtime Node.js"
+        },
+        {
+          "name": "Docker Desktop",
+          "winget": "Docker.DockerDesktop",
+          "choco": "docker-desktop",
+          "description": "Plataforma Docker"
+        },
+        {
+          "name": "Postman",
+          "winget": "Postman.Postman",
+          "choco": "postman",
+          "description": "Plataforma de APIs"
+        },
+        {
+          "name": "Insomnia",
+          "winget": "Insomnia.Insomnia",
+          "choco": "insomnia",
+          "description": "Cliente REST/GraphQL"
+        },
+        {
+          "name": "IntelliJ IDEA Community",
+          "winget": "JetBrains.IntelliJIDEA.Community",
+          "choco": "intellijidea-community",
+          "desc": "IDE IntelliJ Community"
+        },
+        {
+          "name": "IntelliJ IDEA Ultimate",
+          "winget": "JetBrains.IntelliJIDEA.Ultimate",
+          "choco": "intellijidea-ultimate",
+          "desc": "IDE IntelliJ Ultimate"
+        },
+        {
+          "name": "PyCharm Community",
+          "winget": "JetBrains.PyCharm.Community",
+          "choco": "pycharm-community",
+          "description": "IDE Python PyCharm"
+        },
+        {
+          "name": "PyCharm Professional",
+          "winget": "JetBrains.PyCharm.Professional",
+          "choco": "pycharm-professional",
+          "description": "IDE Python PyCharm Pro"
+        },
+        {
+          "name": "WebStorm",
+          "winget": "JetBrains.WebStorm",
+          "choco": "webstorm",
+          "description": "IDE JavaScript WebStorm"
+        },
+        {
+          "name": "Rider",
+          "winget": "JetBrains.Rider",
+          "choco": "rider",
+          "description": "IDE .NET Rider"
+        },
+        {
+          "name": "DataGrip",
+          "winget": "JetBrains.DataGrip",
+          "choco": "datagrip",
+          "description": "IDE SQL DataGrip"
+        },
+        {
+          "name": "GoLand",
+          "winget": "JetBrains.GoLand",
+          "choco": "goland",
+          "description": "IDE Go GoLand"
+        },
+        {
+          "name": "CLion",
+          "winget": "JetBrains.CLion",
+          "choco": "clion",
+          "description": "IDE C/C++ CLion"
+        },
+        {
+          "name": "Rust",
+          "winget": "Rustlang.Rustup",
+          "choco": "rust",
+          "description": "Linguagem Rust"
+        },
+        {
+          "name": "Go",
+          "winget": "GoLang.Go",
+          "choco": "golang",
+          "description": "Linguagem Go"
+        },
+        {
+          "name": "Eclipse IDE",
+          "winget": "EclipseFoundation.EclipseIDE",
+          "choco": "eclipse",
+          "description": "IDE Eclipse"
+        },
+        {
+          "name": "Apache NetBeans",
+          "winget": "Apache.NetBeans",
+          "choco": "netbeans",
+          "description": "IDE NetBeans"
+        },
+        {
+          "name": "Android Studio",
+          "winget": "Google.AndroidStudio",
+          "choco": "androidstudio",
+          "description": "IDE Android Studio"
+        },
+        {
+          "name": "Flutter SDK",
+          "winget": "Google.Flutter",
+          "choco": "flutter",
+          "description": "SDK Flutter Google"
+        },
+        {
+          "name": "Dart SDK",
+          "winget": "Google.Dart",
+          "choco": "dart",
+          "description": "SDK Dart Google"
+        },
+        {
+          "name": "Unity Hub",
+          "winget": "Unity.UnityHub",
+          "choco": "unity-hub",
+          "description": "Central Unity"
+        },
+        {
+          "name": "Unreal Engine",
+          "winget": "EpicGames.UnrealEngine",
+          "choco": "",
+          "description": "Unreal Engine"
+        },
+        {
+          "name": "Godot Engine",
+          "winget": "GodotGodot.GodotEngine",
+          "choco": "godot",
+          "description": "Game engine Godot"
+        },
+        {
+          "name": "Blender",
+          "winget": "BlenderFoundation.Blender",
+          "choco": "blender",
+          "description": "Modelagem 3D Blender"
+        },
+        {
+          "name": "CMake",
+          "winget": "Kitware.CMake",
+          "choco": "cmake",
+          "description": "Ferramenta de build CMake"
+        },
+        {
+          "name": "Ninja",
+          "winget": "Ninja-build.Ninja",
+          "choco": "ninja",
+          "description": "Build system Ninja"
+        },
+        {
+          "name": "Vim",
+          "winget": "Vim.Vim",
+          "choco": "vim",
+          "description": "Editor Vim"
+        },
+        {
+          "name": "Neovim",
+          "winget": "Neovim.Neovim",
+          "choco": "neovim",
+          "description": "Editor Neovim"
+        },
+        {
+          "name": "Emacs",
+          "winget": "GNU.Emacs",
+          "choco": "emacs",
+          "description": "Editor Emacs"
+        },
+        {
+          "name": "Sublime Text",
+          "winget": "SublimeHQ.SublimeText.4",
+          "choco": "sublimetext",
+          "description": "Editor Sublime Text"
+        },
+        {
+          "name": "Atom",
+          "winget": "GitHub.Atom",
+          "choco": "atom",
+          "description": "Editor Atom GitHub"
+        },
+        {
+          "name": "Notepad++",
+          "winget": "Notepad++.Notepad++",
+          "choco": "notepadplusplus",
+          "description": "Editor Notepad++"
+        },
+        {
+          "name": "HeidiSQL",
+          "winget": "HeidiSQL.HeidiSQL",
+          "choco": "heidisql",
+          "description": "Gerenciador SQL"
+        },
+        {
+          "name": "DBeaver",
+          "winget": "DBeaver.DBeaver",
+          "choco": "dbeaver",
+          "description": "Cliente universal BD"
+        },
+        {
+          "name": "MySQL Workbench",
+          "winget": "Oracle.MySQLWorkbench",
+          "choco": "mysql.workbench",
+          "description": "Ferramenta MySQL"
+        },
+        {
+          "name": "pgAdmin",
+          "winget": "PostgreSQL.pgAdmin",
+          "choco": "pgadmin4",
+          "description": "Admin PostgreSQL"
+        },
+        {
+          "name": "MongoDB Compass",
+          "winget": "MongoDB.Compass.Full",
+          "choco": "mongodb-compass",
+          "description": "GUI MongoDB"
+        },
+        {
+          "name": "Redis Insight",
+          "winget": "Redis.RedisInsight",
+          "choco": "redis-insight",
+          "description": "GUI Redis"
+        },
+        {
+          "name": "TablePlus",
+          "winget": "TablePlus.TablePlus",
+          "choco": "tableplus",
+          "description": "Cliente BD moderno"
+        },
+        {
+          "name": "Figma",
+          "winget": "Figma.Figma",
+          "choco": "figma",
+          "description": "Design de interfaces"
+        },
+        {
+          "name": "Gimp",
+          "winget": "GIMP.GIMP",
+          "choco": "gimp",
+          "description": "Editor de imagens"
+        },
+        {
+          "name": "Inkscape",
+          "winget": "Inkscape.Inkscape",
+          "choco": "inkscape",
+          "description": "Editor vetorial"
+        },
+        {
+          "name": "Krita",
+          "winget": "KDE.Krita",
+          "choco": "krita",
+          "description": "Pintura digital"
+        },
+        {
+          "name": "MakeHuman",
+          "winget": "MakeHuman.MakeHuman",
+          "choco": "",
+          "description": "Modelagem humana 3D"
+        },
+        {
+          "name": "Octave",
+          "winget": "GNU.Octave",
+          "choco": "octave",
+          "description": "Matematica numerica"
+        },
+        {
+          "name": "R",
+          "winget": "RProject.R",
+          "choco": "r.project",
+          "description": "Linguagem R"
+        },
+        {
+          "name": "Julia",
+          "winget": "Julia.Julia",
+          "choco": "julia",
+          "description": "Linguagem Julia"
+        },
+        {
+          "name": "Wireshark",
+          "winget": "WiresharkFoundation.Wireshark",
+          "choco": "wireshark",
+          "description": "Analise de rede"
+        },
+        {
+          "name": "Nmap",
+          "winget": "Insecure.Nmap",
+          "choco": "nmap",
+          "description": "Scanner de portas"
+        },
+        {
+          "name": "WinSCP",
+          "winget": "WinSCP.WinSCP",
+          "choco": "winscp",
+          "description": "Cliente SFTP"
+        },
+        {
+          "name": "FileZilla",
+          "winget": "FileZilla.FileZilla",
+          "choco": "filezilla",
+          "description": "Cliente FTP"
+        },
+        {
+          "name": "PuTTY",
+          "winget": "PuTTY.PuTTY",
+          "choco": "putty",
+          "description": "Cliente SSH"
+        },
+        {
+          "name": "MobaXTerm",
+          "winget": "Mobatek.MobaXTerm",
+          "choco": "mobaxterm",
+          "description": "Terminal remoto"
+        },
+        {
+          "name": "Windows Terminal",
+          "winget": "Microsoft.WindowsTerminal",
+          "choco": "microsoft-windows-terminal",
+          "description": "Terminal Windows"
+        },
+        {
+          "name": "PowerShell",
+          "winget": "Microsoft.PowerShell",
+          "choco": "powershell-core",
+          "description": "PowerShell Core"
+        },
+        {
+          "name": "Oh My Posh",
+          "winget": "JanDeDobbeleer.OhMyPosh",
+          "choco": "oh-my-posh",
+          "description": "Personalizacao prompt"
+        },
+        {
+          "name": "TortoiseGit",
+          "winget": "TortoiseGit.TortoiseGit",
+          "choco": "tortoisegit",
+          "description": "Cliente Git no Explorer"
+        },
+        {
+          "name": "TortoiseSVN",
+          "winget": "TortoiseSVN.TortoiseSVN",
+          "choco": "tortoisesvn",
+          "description": "Cliente SVN no Explorer"
+        },
+        {
+          "name": "Vagrant",
+          "winget": "HashiCorp.Vagrant",
+          "choco": "vagrant",
+          "description": "Gerenciador de VM"
+        },
+        {
+          "name": "Terraform",
+          "winget": "HashiCorp.Terraform",
+          "choco": "terraform",
+          "description": "Infraestrutura como codigo"
+        },
+        {
+          "name": "Kubernetes CLI",
+          "winget": "Kubernetes.kubectl",
+          "choco": "kubectl",
+          "description": "CLI Kubernetes"
+        },
+        {
+          "name": "Helm",
+          "winget": "Helm.Helm",
+          "choco": "helm",
+          "description": "Gerenciador pacotes K8s"
+        },
+        {
+          "name": "Minikube",
+          "winget": "Kubernetes.minikube",
+          "choco": "minikube",
+          "description": "Kubernetes local"
+        },
+        {
+          "name": "Lens",
+          "winget": "Lens.Lens",
+          "choco": "lens",
+          "description": "Dashboard Kubernetes"
+        },
+        {
+          "name": "Draw.io",
+          "winget": "Drawio.Drawio",
+          "choco": "drawio",
+          "description": "Diagramas Draw.io"
+        },
+        {
+          "name": "StarUML",
+          "winget": "StarUML.StarUML",
+          "choco": "staruml",
+          "description": "Modelagem UML"
+        },
+        {
+          "name": "JetBrains Toolbox",
+          "winget": "JetBrains.Toolbox",
+          "choco": "jetbrainstoolbox",
+          "description": "Gerenciador JetBrains"
+        },
+        {
+          "name": "NuGet CLI",
+          "winget": "Microsoft.NuGet",
+          "choco": "nuget.commandline",
+          "description": "CLI NuGet"
+        },
+        {
+          "name": "OpenSSL",
+          "winget": "OpenSSL.OpenSSL",
+          "choco": "openssl",
+          "description": "Criptografia SSL/TLS"
+        },
+        {
+          "name": "MinGW",
+          "winget": "MinGW.MinGW",
+          "choco": "mingw",
+          "description": "Compilador C/C++ MinGW"
+        },
+        {
+          "name": "MSYS2",
+          "winget": "MSYS2.MSYS2",
+          "choco": "msys2",
+          "description": "Ambiente Unix no Windows"
+        },
+        {
+          "name": "Cygwin",
+          "winget": "Cygwin.Cygwin",
+          "choco": "cygwin",
+          "description": "Ambiente Linux no Windows"
+        },
+        {
+          "name": "SQLite",
+          "winget": "SQLite.SQLite",
+          "choco": "sqlite",
+          "description": "Banco SQLite"
+        },
+        {
+          "name": "Redis",
+          "winget": "Redis.Redis",
+          "choco": "redis-64",
+          "description": "Cache Redis"
+        },
+        {
+          "name": "Memcached",
+          "winget": "Memcached.Memcached",
+          "choco": "",
+          "description": "Cache Memcached"
+        },
+        {
+          "name": "PostgreSQL",
+          "winget": "PostgreSQL.PostgreSQL",
+          "choco": "",
+          "description": "Banco PostgreSQL"
+        },
+        {
+          "name": "MySQL",
+          "winget": "Oracle.MySQL",
+          "choco": "mysql",
+          "description": "Banco MySQL"
+        },
+        {
+          "name": "MongoDB",
+          "winget": "MongoDB.Server",
+          "choco": "mongodb",
+          "description": "Banco MongoDB"
+        },
+        {
+          "name": "MariaDB",
+          "winget": "MariaDB.MariaDB",
+          "choco": "mariadb",
+          "description": "Banco MariaDB"
+        },
+        {
+          "name": "SQL Server Express",
+          "winget": "Microsoft.SQLServer.Express",
+          "choco": "",
+          "description": "SQL Server Express"
+        },
+        {
+          "name": "SQL Server Management Studio",
+          "winget": "Microsoft.SQLServerManagementStudio",
+          "choco": "ssms",
+          "description": "SSMS"
+        }
+      ]
+    },
+    {
+      "id": "multimidia",
+      "name": "Multimidia",
+      "icon": "🎵",
+      "programs": [
+        {
+          "name": "VLC Media Player",
+          "winget": "VideoLAN.VLC",
+          "choco": "vlc",
+          "description": "Reprodutor multimidia"
+        },
+        {
+          "name": "Spotify",
+          "winget": "Spotify.Spotify",
+          "choco": "spotify",
+          "description": "Streaming de musica"
+        },
+        {
+          "name": "OBS Studio",
+          "winget": "OBSProject.OBSStudio",
+          "choco": "obs-studio",
+          "description": "Gravacao e streaming"
+        },
+        {
+          "name": "Audacity",
+          "winget": "Audacity.Audacity",
+          "choco": "audacity",
+          "description": "Editor de audio"
+        },
+        {
+          "name": "HandBrake",
+          "winget": "HandBrake.HandBrake",
+          "choco": "handbrake",
+          "description": "Conversor de video"
+        },
+        {
+          "name": "Kdenlive",
+          "winget": "KDE.Kdenlive",
+          "choco": "kdenlive",
+          "description": "Editor de video nao-linear"
+        },
+        {
+          "name": "DaVinci Resolve",
+          "winget": "BlackmagicDesign.DaVinciResolve",
+          "choco": "",
+          "description": "Editor de video profissional"
+        },
+        {
+          "name": "Shotcut",
+          "winget": "Meltytech.Shotcut",
+          "choco": "shotcut",
+          "description": "Editor de video"
+        },
+        {
+          "name": "OpenShot",
+          "winget": "OpenShot.OpenShot",
+          "choco": "openshot",
+          "description": "Editor de video facil"
+        },
+        {
+          "name": "FFmpeg",
+          "winget": "FFmpeg.FFmpeg",
+          "choco": "ffmpeg",
+          "description": "Utilitario de audio/video"
+        },
+        {
+          "name": "AIMP",
+          "winget": "AIMP.AIMP",
+          "choco": "aimp",
+          "description": "Player de musica"
+        },
+        {
+          "name": "foobar2000",
+          "winget": "foobar2000.foobar2000",
+          "choco": "foobar2000",
+          "description": "Player de audio avancado"
+        },
+        {
+          "name": "Clementine",
+          "winget": "Clementine.Clementine",
+          "choco": "clementine",
+          "description": "Player de musica"
+        },
+        {
+          "name": "MusicBee",
+          "winget": "MusicBee.MusicBee",
+          "choco": "musicbee",
+          "description": "Gerenciador de musica"
+        },
+        {
+          "name": "Strawberry Music Player",
+          "winget": "StrawberryMusicPlayer.Strawberry",
+          "choco": "strawberrymusicplayer",
+          "description": "Player de musica"
+        },
+        {
+          "name": "mpv",
+          "winget": "mpv.mpv",
+          "choco": "mpv",
+          "description": "Player de video leve"
+        },
+        {
+          "name": "SMPlayer",
+          "winget": "SMPlayer.SMPlayer",
+          "choco": "smplayer",
+          "description": "Player de video SMPlayer"
+        },
+        {
+          "name": "PotPlayer",
+          "winget": "PotPlayer.PotPlayer",
+          "choco": "potplayer",
+          "description": "Player de video PotPlayer"
+        },
+        {
+          "name": "MPC-HC",
+          "winget": "MPC-HC.MPC-HC",
+          "choco": "mpc-hc",
+          "description": "Media Player Classic"
+        },
+        {
+          "name": "Kodi",
+          "winget": "XBMCFoundation.Kodi",
+          "choco": "kodi",
+          "description": "Central multimidia"
+        },
+        {
+          "name": "Plex",
+          "winget": "Plex.Plex",
+          "choco": "plexmediaserver",
+          "description": "Servidor multimidia"
+        },
+        {
+          "name": "Jellyfin",
+          "winget": "Jellyfin.Jellyfin",
+          "choco": "jellyfin",
+          "description": "Servidor multimidia Jellyfin"
+        },
+        {
+          "name": "Emby",
+          "winget": "Emby.Emby",
+          "choco": "emby-server",
+          "description": "Servidor multimidia Emby"
+        },
+        {
+          "name": "Stremio",
+          "winget": "Stremio.Stremio",
+          "choco": "stremio",
+          "description": "Streaming de filmes"
+        },
+        {
+          "name": "Popcorn Time",
+          "winget": "PopcornTime.PopcornTime",
+          "choco": "popcorntime",
+          "description": "Streaming de filmes torrent"
+        },
+        {
+          "name": "GIMP",
+          "winget": "GIMP.GIMP",
+          "choco": "gimp",
+          "description": "Editor de imagens"
+        },
+        {
+          "name": "Krita",
+          "winget": "KDE.Krita",
+          "choco": "krita",
+          "description": "Pintura digital"
+        },
+        {
+          "name": "Inkscape",
+          "winget": "Inkscape.Inkscape",
+          "choco": "inkscape",
+          "description": "Editor vetorial"
+        },
+        {
+          "name": "Paint.NET",
+          "winget": "dotPDN.PaintDotNet",
+          "choco": "paint.net",
+          "description": "Editor de imagens simples"
+        },
+        {
+          "name": "IrfanView",
+          "winget": "IrfanSkiljan.IrfanView",
+          "choco": "irfanview",
+          "description": "Visualizador de imagens"
+        },
+        {
+          "name": "XnView MP",
+          "winget": "XnView.XnViewMP",
+          "choco": "xnview",
+          "description": "Visualizador de imagens"
+        },
+        {
+          "name": "Darktable",
+          "winget": "Darktable.Darktable",
+          "choco": "darktable",
+          "description": "Revelacao RAW"
+        },
+        {
+          "name": "RawTherapee",
+          "winget": "RawTherapee.RawTherapee",
+          "choco": "rawtherapee",
+          "description": "Processamento RAW"
+        },
+        {
+          "name": "Luminance HDR",
+          "winget": "LuminanceHDR.LuminanceHDR",
+          "choco": "",
+          "description": "Imagens HDR"
+        },
+        {
+          "name": "Hugin",
+          "winget": "Hugin.Hugin",
+          "choco": "hugin",
+          "description": "Panoramica de fotos"
+        },
+        {
+          "name": "DigiKam",
+          "winget": "KDE.DigiKam",
+          "choco": "digikam",
+          "description": "Gerenciador de fotos"
+        },
+        {
+          "name": "PhotoScape X",
+          "winget": "PhotoScape.PhotoScapeX",
+          "choco": "",
+          "description": "Editor de fotos"
+        },
+        {
+          "name": "FL Studio",
+          "winget": "ImageLine.FLStudio",
+          "choco": "",
+          "description": "Producao musical"
+        },
+        {
+          "name": "LMMS",
+          "winget": "LMMS.LMMS",
+          "choco": "lmms",
+          "description": "Producao musical open source"
+        },
+        {
+          "name": "Ardour",
+          "winget": "Ardour.Ardour",
+          "choco": "ardour",
+          "description": "Estacao de audio digital"
+        },
+        {
+          "name": "MuseScore",
+          "winget": "MuseScore.MuseScore",
+          "choco": "musescore",
+          "description": "Editor de partituras"
+        },
+        {
+          "name": "Ocenaudio",
+          "winget": "Ocenaudio.Ocenaudio",
+          "choco": "ocenaudio",
+          "description": "Editor de audio simples"
+        },
+        {
+          "name": "WavePad",
+          "winget": "NCHSoftware.WavePad",
+          "choco": "",
+          "description": "Editor de audio"
+        },
+        {
+          "name": "Taudio Editor",
+          "winget": "Taudio.TaudioEditor",
+          "choco": "",
+          "description": "Editor de audio"
+        },
+        {
+          "name": "GoldWave",
+          "winget": "GoldWave.GoldWave",
+          "choco": "goldwave",
+          "description": "Editor de audio"
+        }
+      ]
+    },
+    {
+      "id": "ferramentas",
+      "name": "Ferramentas",
+      "icon": "🔧",
+      "programs": [
+        {
+          "name": "7-Zip",
+          "winget": "7zip.7zip",
+          "choco": "7zip",
+          "description": "Compactador de arquivos"
+        },
+        {
+          "name": "WinRAR",
+          "winget": "RARLab.WinRAR",
+          "choco": "winrar",
+          "description": "Compactador WinRAR"
+        },
+        {
+          "name": "PeaZip",
+          "winget": "PeaZip.PeaZip",
+          "choco": "peazip",
+          "description": "Compactador PeaZip"
+        },
+        {
+          "name": "Everything",
+          "winget": "voidtools.Everything",
+          "choco": "everything",
+          "description": "Buscador de arquivos"
+        },
+        {
+          "name": "CPU-Z",
+          "winget": "CPUID.CPU-Z",
+          "choco": "cpuz",
+          "description": "Info do sistema"
+        },
+        {
+          "name": "HWMonitor",
+          "winget": "CPUID.HWMonitor",
+          "choco": "hwmonitor",
+          "description": "Monitor de hardware"
+        },
+        {
+          "name": "HWiNFO",
+          "winget": "HWiNFO.HWiNFO",
+          "choco": "hwinfo",
+          "description": "Diagnostico de hardware"
+        },
+        {
+          "name": "GPU-Z",
+          "winget": "TechPowerUp.GPU-Z",
+          "choco": "gpu-z",
+          "description": "Info da placa de video"
+        },
+        {
+          "name": "MSI Afterburner",
+          "winget": "MSI.Afterburner",
+          "choco": "msiafterburner",
+          "description": "Overclock GPU"
+        },
+        {
+          "name": "CrystalDiskMark",
+          "winget": "CrystalDewWorld.CrystalDiskMark",
+          "choco": "crystaldiskmark",
+          "description": "Benchmark de disco"
+        },
+        {
+          "name": "CrystalDiskInfo",
+          "winget": "CrystalDewWorld.CrystalDiskInfo",
+          "choco": "crystaldiskinfo",
+          "description": "Saude do disco"
+        },
+        {
+          "name": "Defraggler",
+          "winget": "Piriform.Defraggler",
+          "choco": "defraggler",
+          "description": "Desfragmentador"
+        },
+        {
+          "name": "CCleaner",
+          "winget": "Piriform.CCleaner",
+          "choco": "ccleaner",
+          "description": "Limpeza do sistema"
+        },
+        {
+          "name": "Revo Uninstaller",
+          "winget": "RevoUninstaller.RevoUninstaller",
+          "choco": "revouninstaller",
+          "description": "Desinstalador completo"
+        },
+        {
+          "name": "Geek Uninstaller",
+          "winget": "GeekUninstaller.GeekUninstaller",
+          "choco": "geekuninstaller",
+          "description": "Desinstalador leve"
+        },
+        {
+          "name": "Bulk Crap Uninstaller",
+          "winget": "BulkCrapUninstaller.BulkCrapUninstaller",
+          "choco": "bulk-crap-uninstaller",
+          "description": "Desinstalador em lote"
+        },
+        {
+          "name": "Process Explorer",
+          "winget": "Microsoft.ProcessExplorer",
+          "choco": "process-explorer",
+          "description": "Gerenciador de processos"
+        },
+        {
+          "name": "Process Monitor",
+          "winget": "Microsoft.ProcessMonitor",
+          "choco": "process-monitor",
+          "description": "Monitor do sistema"
+        },
+        {
+          "name": "Autoruns",
+          "winget": "Microsoft.Autoruns",
+          "choco": "autoruns",
+          "description": "Gerenciador de inicializacao"
+        },
+        {
+          "name": "Sysinternals Suite",
+          "winget": "Microsoft.SysinternalsSuite",
+          "choco": "sysinternals",
+          "description": "Suite Sysinternals"
+        },
+        {
+          "name": "PowerToys",
+          "winget": "Microsoft.PowerToys",
+          "choco": "powertoys",
+          "description": "Utilitarios Microsoft"
+        },
+        {
+          "name": "ShareX",
+          "winget": "ShareX.ShareX",
+          "choco": "sharex",
+          "description": "Captura de tela"
+        },
+        {
+          "name": "Greenshot",
+          "winget": "Greenshot.Greenshot",
+          "choco": "greenshot",
+          "description": "Captura de tela leve"
+        },
+        {
+          "name": "Lightshot",
+          "winget": "Lightshot.Lightshot",
+          "choco": "lightshot",
+          "description": "Captura de tela rapida"
+        },
+        {
+          "name": "Flameshot",
+          "winget": "Flameshot.Flameshot",
+          "choco": "flameshot",
+          "description": "Captura de tela rica"
+        },
+        {
+          "name": "ScreenToGif",
+          "winget": "NickeManarin.ScreenToGif",
+          "choco": "screentogif",
+          "description": "Gravacao de tela em GIF"
+        },
+        {
+          "name": "AutoHotkey",
+          "winget": "AutoHotkey.AutoHotkey",
+          "choco": "autohotkey",
+          "description": "Automacao de teclas"
+        },
+        {
+          "name": "AutoIt",
+          "winget": "AutoIt.AutoIt",
+          "choco": "autoit",
+          "description": "Automacao de interface"
+        },
+        {
+          "name": "EarTrumpet",
+          "winget": "File-New-Project.EarTrumpet",
+          "choco": "eartrumpet",
+          "description": "Controle de volume"
+        },
+        {
+          "name": "Eraser",
+          "winget": "Eraser.Eraser",
+          "choco": "eraser",
+          "description": "Apagamento seguro"
+        },
+        {
+          "name": "Recuva",
+          "winget": "Piriform.Recuva",
+          "choco": "recuva",
+          "description": "Recuperacao de arquivos"
+        },
+        {
+          "name": "TestDisk",
+          "winget": "TestDisk.TestDisk",
+          "choco": "testdisk",
+          "description": "Recuperacao de disco"
+        },
+        {
+          "name": "PhotoRec",
+          "winget": "PhotoRec.PhotoRec",
+          "choco": "photorec",
+          "description": "Recuperacao de fotos"
+        },
+        {
+          "name": "Macrium Reflect",
+          "winget": "Macrium.MacriumReflect",
+          "choco": "",
+          "description": "Backup de disco"
+        },
+        {
+          "name": "Veeam Agent",
+          "winget": "Veeam.VeeamAgent",
+          "choco": "",
+          "description": "Backup gratuito"
+        },
+        {
+          "name": "DVD Flick",
+          "winget": "DVDFlick.DVDFlick",
+          "choco": "",
+          "description": "Autor de DVD"
+        },
+        {
+          "name": "ImgBurn",
+          "winget": "ImgBurn.ImgBurn",
+          "choco": "imgburn",
+          "description": "Gravacao de CD/DVD"
+        },
+        {
+          "name": "Rufus",
+          "winget": "Rufus.Rufus",
+          "choco": "rufus",
+          "description": "Criacao de USB bootavel"
+        },
+        {
+          "name": "BalenaEtcher",
+          "winget": "Balena.BalenaEtcher",
+          "choco": "etcher",
+          "description": "Gravacao de ISO em USB"
+        },
+        {
+          "name": "Ventoy",
+          "winget": "Ventoy.Ventoy",
+          "choco": "ventoy",
+          "description": "Criacao de USB multiplamente"
+        },
+        {
+          "name": "Windows ISO Downloader",
+          "winget": "WindowsISODownloader.WindowsISODownloader",
+          "choco": "",
+          "description": "Download de ISOs Windows"
+        },
+        {
+          "name": "VirtualBox",
+          "winget": "Oracle.VirtualBox",
+          "choco": "virtualbox",
+          "description": "Virtualizacao"
+        },
+        {
+          "name": "VMware Workstation Player",
+          "winget": "VMware.WorkstationPlayer",
+          "choco": "vmware-workstation-player",
+          "description": "Virtualizacao VMware"
+        },
+        {
+          "name": "QEMU",
+          "winget": "QEMU.QEMU",
+          "choco": "qemu",
+          "description": "Emulador QEMU"
+        },
+        {
+          "name": "WSL",
+          "winget": "Microsoft.WSL",
+          "choco": "",
+          "description": "Windows Subsystem Linux"
+        },
+        {
+          "name": "Macrium Reflect",
+          "winget": "Macrium.MacriumReflect",
+          "choco": "macrium-reflect",
+          "description": "Clonagem de disco"
+        },
+        {
+          "name": "HashCheck",
+          "winget": "HashCheck.HashCheck",
+          "choco": "",
+          "description": "Verificacao de hash"
+        },
+        {
+          "name": "QuickHash",
+          "winget": "QuickHash.QuickHash",
+          "choco": "",
+          "description": "Calculo de hash"
+        },
+        {
+          "name": "TreeSize Free",
+          "winget": "JAMSoftware.TreeSize.Free",
+          "choco": "treesizefree",
+          "description": "Analise de disco"
+        },
+        {
+          "name": "WizTree",
+          "winget": "WizTree.WizTree",
+          "choco": "wiztree",
+          "description": "Analise de disco rapida"
+        },
+        {
+          "name": "SpaceSniffer",
+          "winget": "SpaceSniffer.SpaceSniffer",
+          "choco": "spacesniffer",
+          "description": "Analise de disco visual"
+        },
+        {
+          "name": "WinDirStat",
+          "winget": "WinDirStat.WinDirStat",
+          "choco": "windirstat",
+          "description": "Estatistica de disco"
+        },
+        {
+          "name": "Notepad++",
+          "winget": "Notepad++.Notepad++",
+          "choco": "notepadplusplus",
+          "description": "Editor de texto avancado"
+        },
+        {
+          "name": "PSPad",
+          "winget": "PSPad.PSPad",
+          "choco": "pspad",
+          "description": "Editor de texto PSPad"
+        },
+        {
+          "name": "ConEmu",
+          "winget": "ConEmu.ConEmu",
+          "choco": "conemu",
+          "description": "Emulador de console"
+        },
+        {
+          "name": "Cmder",
+          "winget": "Cmder.Cmder",
+          "choco": "cmder",
+          "description": "Emulador de terminal"
+        },
+        {
+          "name": "Microsoft Terminal",
+          "winget": "Microsoft.WindowsTerminal",
+          "choco": "microsoft-windows-terminal",
+          "description": "Terminal Moderno"
+        },
+        {
+          "name": "Fluent Terminal",
+          "winget": "FluentTerminal.FluentTerminal",
+          "choco": "",
+          "description": "Terminal moderno"
+        },
+        {
+          "name": "TeamViewer",
+          "winget": "TeamViewer.TeamViewer",
+          "choco": "teamviewer",
+          "description": "Acesso remoto"
+        },
+        {
+          "name": "AnyDesk",
+          "winget": "AnyDesk.AnyDesk",
+          "choco": "anydesk",
+          "description": "Acesso remoto leve"
+        },
+        {
+          "name": "RustDesk",
+          "winget": "RustDesk.RustDesk",
+          "choco": "rustdesk",
+          "description": "Acesso remoto RustDesk"
+        },
+        {
+          "name": "Chrome Remote Desktop",
+          "winget": "Google.ChromeRemoteDesktop",
+          "choco": "",
+          "description": "Acesso remoto Chrome"
+        },
+        {
+          "name": "TightVNC",
+          "winget": "TightVNC.TightVNC",
+          "choco": "tightvnc",
+          "description": "VNC server"
+        },
+        {
+          "name": "UltraVNC",
+          "winget": "UltraVNC.UltraVNC",
+          "choco": "ultravnc",
+          "description": "VNC server avancado"
+        },
+        {
+          "name": "RealVNC",
+          "winget": "RealVNC.VNCServer",
+          "choco": "vnc-server",
+          "description": "VNC enterprise"
+        },
+        {
+          "name": "WinMerge",
+          "winget": "WinMerge.WinMerge",
+          "choco": "winmerge",
+          "description": "Comparacao de arquivos"
+        },
+        {
+          "name": "Meld",
+          "winget": "Meld.Meld",
+          "choco": "meld",
+          "description": "Diff visual"
+        },
+        {
+          "name": "KDiff3",
+          "winget": "KDiff3.KDiff3",
+          "choco": "kdiff3",
+          "description": "Comparador de arquivos 3 vias"
+        },
+        {
+          "name": "Beyond Compare",
+          "winget": "ScooterSoftware.BeyondCompare",
+          "choco": "beyondcompare",
+          "description": "Comparacao profissional"
+        },
+        {
+          "name": "Total Commander",
+          "winget": "Ghisler.TotalCommander",
+          "choco": "totalcommander",
+          "description": "Gerenciador de arquivos"
+        },
+        {
+          "name": "Double Commander",
+          "winget": "DoubleCommander.DoubleCommander",
+          "choco": "doublecmd",
+          "description": "Gerenciador de arquivos 2 paineis"
+        },
+        {
+          "name": "FreeCommander",
+          "winget": "FreeCommander.FreeCommander",
+          "choco": "freecommander",
+          "description": "Gerenciador de arquivos"
+        },
+        {
+          "name": "MultiCommander",
+          "winget": "MultiCommander.MultiCommander",
+          "choco": "multicommander",
+          "description": "Gerenciador de arquivos"
+        },
+        {
+          "name": "Q-Dir",
+          "winget": "Q-Dir.Q-Dir",
+          "choco": "q-dir",
+          "description": "Gerenciador de 4 paineis"
+        },
+        {
+          "name": "Clover",
+          "winget": "Clover.Clover",
+          "choco": "clover",
+          "description": "Explorer com abas"
+        },
+        {
+          "name": "Groupy",
+          "winget": "Stardock.Groupy",
+          "choco": "",
+          "description": "Abas no Explorer"
+        },
+        {
+          "name": "Fences",
+          "winget": "Stardock.Fences",
+          "choco": "fences",
+          "description": "Organizacao de area de trabalho"
+        },
+        {
+          "name": "Ditto Clipboard",
+          "winget": "Ditto.Ditto",
+          "choco": "ditto",
+          "description": "Historico de area de transferencia"
+        },
+        {
+          "name": "ClipClip",
+          "winget": "ClipClip.ClipClip",
+          "choco": "",
+          "description": "Gerenciador de clipboard"
+        },
+        {
+          "name": "CopyQ",
+          "winget": "CopyQ.CopyQ",
+          "choco": "copyq",
+          "description": "Gerenciador de clipboard avancado"
+        },
+        {
+          "name": "1Clipboard",
+          "winget": "1Clipboard.1Clipboard",
+          "choco": "",
+          "description": "Clipboard multiplataforma"
+        },
+        {
+          "name": "SwiftSearch",
+          "winget": "SwiftSearch.SwiftSearch",
+          "choco": "",
+          "description": "Buscador de arquivos"
+        },
+        {
+          "name": "Agent Ransack",
+          "winget": "Mythicsoft.AgentRansack",
+          "choco": "agentransack",
+          "description": "Buscador de arquivos avancado"
+        },
+        {
+          "name": "Listary",
+          "winget": "Listary.Listary",
+          "choco": "listary",
+          "description": "Buscador de arquivos"
+        },
+        {
+          "name": "Flow Launcher",
+          "winget": "FlowLauncher.FlowLauncher",
+          "choco": "flow-launcher",
+          "description": "Launcher de produtividade"
+        },
+        {
+          "name": "Keypirinha",
+          "winget": "Keypirinha.Keypirinha",
+          "choco": "keypirinha",
+          "description": "Launcher de teclas"
+        },
+        {
+          "name": "Wox",
+          "winget": "Wox.Wox",
+          "choco": "wox",
+          "description": "Launcher multiplataforma"
+        },
+        {
+          "name": "Taskade",
+          "winget": "Taskade.Taskade",
+          "choco": "",
+          "description": "Gerenciamento de tarefas"
+        },
+        {
+          "name": "Trello",
+          "winget": "Trello.Trello",
+          "choco": "",
+          "description": "Quadros Kanban"
+        },
+        {
+          "name": "Notion",
+          "winget": "Notion.Notion",
+          "choco": "notion",
+          "description": "Workspace Notion"
+        },
+        {
+          "name": "Obsidian",
+          "winget": "Obsidian.Obsidian",
+          "choco": "obsidian",
+          "description": "Base de conhecimento"
+        },
+        {
+          "name": "Joplin",
+          "winget": "Joplin.Joplin",
+          "choco": "joplin",
+          "description": "Notas sincronizadas"
+        },
+        {
+          "name": "Standard Notes",
+          "winget": "StandardNotes.StandardNotes",
+          "choco": "standardnotes",
+          "description": "Notas criptografadas"
+        },
+        {
+          "name": "Simplenote",
+          "winget": "Simplenote.Simplenote",
+          "choco": "simplenote",
+          "description": "Notas minimalistas"
+        },
+        {
+          "name": "KeepNote",
+          "winget": "KeepNote.KeepNote",
+          "choco": "",
+          "description": "Notas estruturadas"
+        },
+        {
+          "name": "Zim Wiki",
+          "winget": "ZimWiki.ZimWiki",
+          "choco": "zim",
+          "description": "Wiki desktop"
+        },
+        {
+          "name": "CherryTree",
+          "winget": "CherryTree.CherryTree",
+          "choco": "cherrytree",
+          "description": "Notas em arvore"
+        },
+        {
+          "name": "Boost Note",
+          "winget": "BoostNote.BoostNote",
+          "choco": "boostnote",
+          "description": "Notas para devs"
+        },
+        {
+          "name": "TagSpaces",
+          "winget": "TagSpaces.TagSpaces",
+          "choco": "",
+          "description": "Gerenciador de arquivos com tags"
+        }
+      ]
+    },
+    {
+      "id": "escritorio",
+      "name": "Escritorio",
+      "icon": "📄",
+      "programs": [
+        {
+          "name": "LibreOffice",
+          "winget": "TheDocumentFoundation.LibreOffice",
+          "choco": "libreoffice",
+          "description": "Suite de escritorio gratuita"
+        },
+        {
+          "name": "LibreOffice Fresh",
+          "winget": "TheDocumentFoundation.LibreOffice.Fresh",
+          "choco": "",
+          "description": "Ultima versao LibreOffice"
+        },
+        {
+          "name": "Apache OpenOffice",
+          "winget": "Apache.OpenOffice",
+          "choco": "openoffice",
+          "description": "Suite de escritorio Apache"
+        },
+        {
+          "name": "OnlyOffice",
+          "winget": "ONLYOFFICE.DesktopEditors",
+          "choco": "onlyoffice",
+          "description": "Suite Office"
+        },
+        {
+          "name": "SoftMaker FreeOffice",
+          "winget": "SoftMaker.FreeOffice",
+          "choco": "freeoffice",
+          "description": "Suite gratuita compativel MS"
+        },
+        {
+          "name": "WPS Office",
+          "winget": "Kingsoft.WPSOffice",
+          "choco": "wps-office",
+          "description": "Suite WPS Office"
+        },
+        {
+          "name": "Foxit Reader",
+          "winget": "Foxit.FoxitReader",
+          "choco": "foxitreader",
+          "description": "Leitor de PDF"
+        },
+        {
+          "name": "Foxit PDF Editor",
+          "winget": "Foxit.FoxitPDFEditor",
+          "choco": "",
+          "description": "Editor de PDF Foxit"
+        },
+        {
+          "name": "Adobe Acrobat Reader",
+          "winget": "Adobe.Acrobat.Reader.64-bit",
+          "choco": "adobereader",
+          "description": "Leitor de PDF Adobe"
+        },
+        {
+          "name": "Sumatra PDF",
+          "winget": "SumatraPDF.SumatraPDF",
+          "choco": "sumatrapdf",
+          "description": "Leitor de PDF leve"
+        },
+        {
+          "name": "PDF-XChange Editor",
+          "winget": "TrackerSoftware.PDF-XChangeEditor",
+          "choco": "pdf-xchange-editor",
+          "description": "Editor de PDF"
+        },
+        {
+          "name": "Nitro PDF Reader",
+          "winget": "Nitro.NitroPDFReader",
+          "choco": "nitropdf",
+          "description": "Leitor de PDF Nitro"
+        },
+        {
+          "name": "PDFsam Basic",
+          "winget": "PDFsam.PDFsamBasic",
+          "choco": "pdfsam",
+          "description": "Divisor de PDF"
+        },
+        {
+          "name": "PDF24 Creator",
+          "winget": "geeksoftware.PDF24Creator",
+          "choco": "pdf24-creator",
+          "description": "Criador de PDF"
+        },
+        {
+          "name": "Calibre",
+          "winget": "calibre.calibre",
+          "choco": "calibre",
+          "description": "Gerenciador de e-books"
+        },
+        {
+          "name": "Sigil",
+          "winget": "Sigil.Sigil",
+          "choco": "sigil",
+          "description": "Editor de EPUB"
+        },
+        {
+          "name": "Kindle",
+          "winget": "Amazon.Kindle",
+          "choco": "kindle",
+          "description": "Leitor Kindle"
+        },
+        {
+          "name": "FBReader",
+          "winget": "FBReader.FBReader",
+          "choco": "fbreader",
+          "description": "Leitor de e-books"
+        },
+        {
+          "name": "Icecream PDF Editor",
+          "winget": "IcecreamApps.IcecreamPDFEditor",
+          "choco": "",
+          "description": "Editor de PDF"
+        },
+        {
+          "name": "Drawboard PDF",
+          "winget": "Drawboard.DrawboardPDF",
+          "choco": "",
+          "description": "Anotacao em PDF"
+        },
+        {
+          "name": "Xodo PDF Reader",
+          "winget": "Xodo.XodoPDFReader",
+          "choco": "",
+          "description": "Leitor de PDF"
+        },
+        {
+          "name": "Okular",
+          "winget": "KDE.Okular",
+          "choco": "okular",
+          "description": "Visualizador de documentos"
+        },
+        {
+          "name": "Evince",
+          "winget": "Evince.Evince",
+          "choco": "",
+          "description": "Visualizador de documentos"
+        },
+        {
+          "name": "FreeOffice TextMaker",
+          "winget": "SoftMaker.TextMaker",
+          "choco": "",
+          "description": "Processador de texto"
+        },
+        {
+          "name": "FreeOffice PlanMaker",
+          "winget": "SoftMaker.PlanMaker",
+          "choco": "",
+          "description": "Planilha eletronica"
+        },
+        {
+          "name": "LaTeX Workshop",
+          "winget": "LaTeX.LaTeXWorkshop",
+          "choco": "",
+          "description": "Editor LaTeX"
+        },
+        {
+          "name": "MikTeX",
+          "winget": "MikTeX.MikTeX",
+          "choco": "miktex",
+          "description": "Distribuicao LaTeX"
+        },
+        {
+          "name": "Texmaker",
+          "winget": "Texmaker.Texmaker",
+          "choco": "texmaker",
+          "description": "Editor LaTeX multiplataforma"
+        },
+        {
+          "name": "TeXstudio",
+          "winget": "TeXstudio.TeXstudio",
+          "choco": "texstudio",
+          "description": "Editor LaTeX completo"
+        },
+        {
+          "name": "LyX",
+          "winget": "LyX.LyX",
+          "choco": "lyx",
+          "description": "Processador de texto LaTeX"
+        },
+        {
+          "name": "Gnumeric",
+          "winget": "Gnumeric.Gnumeric",
+          "choco": "",
+          "description": "Planilha eletronica"
+        },
+        {
+          "name": "Calligra Suite",
+          "winget": "KDE.Calligra",
+          "choco": "calligra",
+          "description": "Suite KDE office"
+        },
+        {
+          "name": "AbiWord",
+          "winget": "AbiWord.AbiWord",
+          "choco": "abiword",
+          "description": "Processador de texto leve"
+        },
+        {
+          "name": "Gnumeric",
+          "winget": "Gnome.Gnumeric",
+          "choco": "",
+          "description": "Planilha Gnome"
+        },
+        {
+          "name": "Dia",
+          "winget": "Dia.Dia",
+          "choco": "dia",
+          "description": "Diagramas tecnicos"
+        },
+        {
+          "name": "FreeMind",
+          "winget": "FreeMind.FreeMind",
+          "choco": "freemind",
+          "description": "Mapas mentais"
+        },
+        {
+          "name": "XMind",
+          "winget": "XMind.XMind",
+          "choco": "xmind",
+          "description": "Mapas mentais profissionais"
+        },
+        {
+          "name": "MindMaster",
+          "winget": "MindMaster.MindMaster",
+          "choco": "",
+          "description": "Mapas mentais"
+        },
+        {
+          "name": "Coggle",
+          "winget": "Coggle.Coggle",
+          "choco": "",
+          "description": "Mapas mentais online"
+        },
+        {
+          "name": "FreePlane",
+          "winget": "FreePlane.FreePlane",
+          "choco": "freeplane",
+          "description": "Mapas mentais avancados"
+        },
+        {
+          "name": "VYM",
+          "winget": "VYM.VYM",
+          "choco": "",
+          "description": "View Your Mind"
+        },
+        {
+          "name": "Hamaracom",
+          "winget": "Hamaracom.Hamaracom",
+          "choco": "",
+          "description": "Mapas mentais"
+        },
+        {
+          "name": "CmapTools",
+          "winget": "CmapTools.CmapTools",
+          "choco": "",
+          "description": "Mapas conceituais"
+        },
+        {
+          "name": "Minder",
+          "winget": "Minder.Minder",
+          "choco": "",
+          "description": "Mapas mentais"
+        },
+        {
+          "name": "Scapple",
+          "winget": "Scapple.Scapple",
+          "choco": "",
+          "description": "Mapas mentais"
+        }
+      ]
+    },
+    {
+      "id": "seguranca",
+      "name": "Seguranca",
+      "icon": "🔒",
+      "programs": [
+        {
+          "name": "Malwarebytes",
+          "winget": "Malwarebytes.Malwarebytes",
+          "choco": "malwarebytes",
+          "description": "Antimalware"
+        },
+        {
+          "name": "Bitdefender",
+          "winget": "Bitdefender.Bitdefender",
+          "choco": "",
+          "description": "Antivirus Bitdefender"
+        },
+        {
+          "name": "Kaspersky",
+          "winget": "Kaspersky.Kaspersky",
+          "choco": "",
+          "description": "Antivirus Kaspersky"
+        },
+        {
+          "name": "Avast",
+          "winget": "Avast.Avast",
+          "choco": "avast",
+          "description": "Antivirus Avast"
+        },
+        {
+          "name": "AVG",
+          "winget": "AVG.AVG",
+          "choco": "avg",
+          "description": "Antivirus AVG"
+        },
+        {
+          "name": "Norton",
+          "winget": "Norton.Norton",
+          "choco": "",
+          "description": "Antivirus Norton"
+        },
+        {
+          "name": "ESET",
+          "winget": "ESET.ESET",
+          "choco": "eset",
+          "description": "Antivirus ESET"
+        },
+        {
+          "name": "McAfee",
+          "winget": "McAfee.McAfee",
+          "choco": "",
+          "description": "Antivirus McAfee"
+        },
+        {
+          "name": "Windows Defender",
+          "winget": "Microsoft.WindowsDefender",
+          "choco": "",
+          "description": "Antivirus Windows"
+        },
+        {
+          "name": "AdwCleaner",
+          "winget": "Malwarebytes.AdwCleaner",
+          "choco": "adwcleaner",
+          "description": "Remocao de adware"
+        },
+        {
+          "name": "Spybot Search & Destroy",
+          "winget": "Spybot.SpybotSearchDestroy",
+          "choco": "spybot",
+          "description": "Anti-spyware"
+        },
+        {
+          "name": "SuperAntiSpyware",
+          "winget": "SuperAntiSpyware.SuperAntiSpyware",
+          "choco": "superantispyware",
+          "description": "Anti-spyware"
+        },
+        {
+          "name": "HitmanPro",
+          "winget": "HitmanPro.HitmanPro",
+          "choco": "hitmanpro",
+          "description": "Scanner de segunda opiniao"
+        },
+        {
+          "name": "Emsisoft Emergency Kit",
+          "winget": "Emsisoft.EmsisoftEmergencyKit",
+          "choco": "",
+          "description": "Scanner emergencial"
+        },
+        {
+          "name": "Bitwarden",
+          "winget": "Bitwarden.Bitwarden",
+          "choco": "bitwarden",
+          "description": "Gerenciador de senhas"
+        },
+        {
+          "name": "KeePass",
+          "winget": "KeePass.KeePass",
+          "choco": "keepass",
+          "description": "Gerenciador de senhas offline"
+        },
+        {
+          "name": "KeePassXC",
+          "winget": "KeePassXCTeam.KeePassXC",
+          "choco": "keepassxc",
+          "description": "Gerenciador de senhas cross-platform"
+        },
+        {
+          "name": "LastPass",
+          "winget": "LastPass.LastPass",
+          "choco": "lastpass",
+          "description": "Gerenciador de senhas cloud"
+        },
+        {
+          "name": "1Password",
+          "winget": "1Password.1Password",
+          "choco": "1password",
+          "description": "Gerenciador de senhas 1Password"
+        },
+        {
+          "name": "Dashlane",
+          "winget": "Dashlane.Dashlane",
+          "choco": "dashlane",
+          "description": "Gerenciador de senhas"
+        },
+        {
+          "name": "NordPass",
+          "winget": "NordPass.NordPass",
+          "choco": "",
+          "description": "Gerenciador de senhas Nord"
+        },
+        {
+          "name": "RoboForm",
+          "winget": "RoboForm.RoboForm",
+          "choco": "roboform",
+          "description": "Gerenciador de senhas RoboForm"
+        },
+        {
+          "name": "Sticky Password",
+          "winget": "StickyPassword.StickyPassword",
+          "choco": "",
+          "description": "Gerenciador de senhas"
+        },
+        {
+          "name": "WireGuard",
+          "winget": "WireGuard.WireGuard",
+          "choco": "wireguard",
+          "description": "VPN WireGuard"
+        },
+        {
+          "name": "OpenVPN",
+          "winget": "OpenVPNTechnologies.OpenVPN",
+          "choco": "openvpn",
+          "description": "Cliente VPN"
+        },
+        {
+          "name": "NordVPN",
+          "winget": "NordVPN.NordVPN",
+          "choco": "nordvpn",
+          "description": "VPN NordVPN"
+        },
+        {
+          "name": "ProtonVPN",
+          "winget": "Proton.ProtonVPN",
+          "choco": "protonvpn",
+          "description": "VPN Proton"
+        },
+        {
+          "name": "Windscribe",
+          "winget": "Windscribe.Windscribe",
+          "choco": "windscribe",
+          "description": "VPN Windscribe"
+        },
+        {
+          "name": "Surfshark",
+          "winget": "Surfshark.Surfshark",
+          "choco": "",
+          "description": "VPN Surfshark"
+        },
+        {
+          "name": "ExpressVPN",
+          "winget": "ExpressVPN.ExpressVPN",
+          "choco": "",
+          "description": "VPN ExpressVPN"
+        },
+        {
+          "name": "VeraCrypt",
+          "winget": "IDRIX.VeraCrypt",
+          "choco": "veracrypt",
+          "description": "Criptografia de disco"
+        },
+        {
+          "name": "Cryptomator",
+          "winget": "Cryptomator.Cryptomator",
+          "choco": "cryptomator",
+          "description": "Criptografia de arquivos"
+        },
+        {
+          "name": "AxCrypt",
+          "winget": "AxCrypt.AxCrypt",
+          "choco": "axcrypt",
+          "description": "Criptografia de arquivos"
+        },
+        {
+          "name": "GnuPG",
+          "winget": "GnuPG.GnuPG",
+          "choco": "gnupg",
+          "description": "Criptografia GPG"
+        },
+        {
+          "name": "Gpg4win",
+          "winget": "Gpg4win.Gpg4win",
+          "choco": "gpg4win",
+          "description": "Criptografia email"
+        },
+        {
+          "name": "Wireshark",
+          "winget": "WiresharkFoundation.Wireshark",
+          "choco": "wireshark",
+          "description": "Analise de rede"
+        },
+        {
+          "name": "GlassWire",
+          "winget": "GlassWire.GlassWire",
+          "choco": "glasswire",
+          "description": "Firewall e monitor de rede"
+        },
+        {
+          "name": "NetLimiter",
+          "winget": "NetLimiter.NetLimiter",
+          "choco": "netlimiter",
+          "description": "Controle de banda"
+        },
+        {
+          "name": "SimpleWall",
+          "winget": "SimpleWall.SimpleWall",
+          "choco": "",
+          "description": "Firewall simples"
+        },
+        {
+          "name": "TinyWall",
+          "winget": "TinyWall.TinyWall",
+          "choco": "tinywall",
+          "description": "Firewall leve"
+        },
+        {
+          "name": "Portmaster",
+          "winget": "Safing.Portmaster",
+          "choco": "",
+          "description": "Firewall open-source"
+        },
+        {
+          "name": "Macrium Reflect Free",
+          "winget": "Macrium.MacriumReflectFree",
+          "choco": "",
+          "description": "Backup e seguranca"
+        },
+        {
+          "name": "Eraser",
+          "winget": "Eraser.Eraser",
+          "choco": "eraser",
+          "description": "Apagamento seguro de dados"
+        },
+        {
+          "name": "CCleaner",
+          "winget": "Piriform.CCleaner",
+          "choco": "ccleaner",
+          "description": "Limpeza de privacidade"
+        },
+        {
+          "name": "BleachBit",
+          "winget": "BleachBit.BleachBit",
+          "choco": "bleachbit",
+          "description": "Limpeza open-source"
+        },
+        {
+          "name": "Privacy Eraser",
+          "winget": "PrivacyEraser.PrivacyEraser",
+          "choco": "",
+          "description": "Limpeza de privacidade"
+        }
+      ]
+    },
+    {
+      "id": "utilitarios",
+      "name": "Utilitarios",
+      "icon": "⚡️",
+      "programs": [
+        {
+          "name": "Microsoft PowerToys",
+          "winget": "Microsoft.PowerToys",
+          "choco": "powertoys",
+          "description": "Utilitarios Windows"
+        },
+        {
+          "name": "Everything",
+          "winget": "voidtools.Everything",
+          "choco": "everything",
+          "description": "Busca instantanea de arquivos"
+        },
+        {
+          "name": "AutoHotkey",
+          "winget": "AutoHotkey.AutoHotkey",
+          "choco": "autohotkey",
+          "description": "Automacao de teclado"
+        },
+        {
+          "name": "AutoIt",
+          "winget": "AutoIt.AutoIt",
+          "choco": "autoit",
+          "description": "Automacao de interface"
+        },
+        {
+          "name": "ShareX",
+          "winget": "ShareX.ShareX",
+          "choco": "sharex",
+          "description": "Captura e compartilhamento"
+        },
+        {
+          "name": "Greenshot",
+          "winget": "Greenshot.Greenshot",
+          "choco": "greenshot",
+          "description": "Captura de tela"
+        },
+        {
+          "name": "Flameshot",
+          "winget": "Flameshot.Flameshot",
+          "choco": "flameshot",
+          "description": "Captura de tela rica"
+        },
+        {
+          "name": "Ditto Clipboard",
+          "winget": "Ditto.Ditto",
+          "choco": "ditto",
+          "description": "Historico de clipboard"
+        },
+        {
+          "name": "CopyQ",
+          "winget": "CopyQ.CopyQ",
+          "choco": "copyq",
+          "description": "Clipboard avancado"
+        },
+        {
+          "name": "EarTrumpet",
+          "winget": "File-New-Project.EarTrumpet",
+          "choco": "eartrumpet",
+          "description": "Controle de volume por app"
+        },
+        {
+          "name": "SoundSwitch",
+          "winget": "SoundSwitch.SoundSwitch",
+          "choco": "soundswitch",
+          "description": "Troca rapida de audio"
+        },
+        {
+          "name": "Voicemeeter",
+          "winget": "VB-Audio.Voicemeeter",
+          "choco": "voicemeeter",
+          "description": "Mixer de audio virtual"
+        },
+        {
+          "name": "Notepad++",
+          "winget": "Notepad++.Notepad++",
+          "choco": "notepadplusplus",
+          "description": "Editor de texto avancado"
+        },
+        {
+          "name": "Sumatra PDF",
+          "winget": "SumatraPDF.SumatraPDF",
+          "choco": "sumatrapdf",
+          "description": "Leitor de PDF leve"
+        },
+        {
+          "name": "7-Zip",
+          "winget": "7zip.7zip",
+          "choco": "7zip",
+          "description": "Compactador de arquivos"
+        },
+        {
+          "name": "PeaZip",
+          "winget": "PeaZip.PeaZip",
+          "choco": "peazip",
+          "description": "Compactador PeaZip"
+        },
+        {
+          "name": "CPU-Z",
+          "winget": "CPUID.CPU-Z",
+          "choco": "cpuz",
+          "description": "Info do sistema"
+        },
+        {
+          "name": "HWMonitor",
+          "winget": "CPUID.HWMonitor",
+          "choco": "hwmonitor",
+          "description": "Monitor de hardware"
+        },
+        {
+          "name": "TreeSize Free",
+          "winget": "JAMSoftware.TreeSize.Free",
+          "choco": "treesizefree",
+          "description": "Analise de disco"
+        },
+        {
+          "name": "WizTree",
+          "winget": "WizTree.WizTree",
+          "choco": "wiztree",
+          "description": "Analise de disco rapida"
+        },
+        {
+          "name": "Rufus",
+          "winget": "Rufus.Rufus",
+          "choco": "rufus",
+          "description": "USB bootavel"
+        },
+        {
+          "name": "BalenaEtcher",
+          "winget": "Balena.BalenaEtcher",
+          "choco": "etcher",
+          "description": "Gravacao de ISO"
+        },
+        {
+          "name": "Ventoy",
+          "winget": "Ventoy.Ventoy",
+          "choco": "ventoy",
+          "description": "Multi-boot USB"
+        },
+        {
+          "name": "Unlocker",
+          "winget": "Unlocker.Unlocker",
+          "choco": "unlocker",
+          "description": "Desbloqueio de arquivos"
+        },
+        {
+          "name": "LockHunter",
+          "winget": "LockHunter.LockHunter",
+          "choco": "lockhunter",
+          "description": "Desbloqueio de arquivos"
+        },
+        {
+          "name": "Process Hacker",
+          "winget": "ProcessHacker.ProcessHacker",
+          "choco": "processhacker",
+          "description": "Gerenciador de processos"
+        },
+        {
+          "name": "Process Lasso",
+          "winget": "Bitsum.ProcessLasso",
+          "choco": "processlasso",
+          "description": "Otimizacao de processos"
+        },
+        {
+          "name": "Rainmeter",
+          "winget": "Rainmeter.Rainmeter",
+          "choco": "rainmeter",
+          "description": "Widgets desktop"
+        },
+        {
+          "name": "TaskbarX",
+          "winget": "ChrisAndriessen.TaskbarX",
+          "choco": "",
+          "description": "Personalizacao da barra"
+        },
+        {
+          "name": "TranslucentTB",
+          "winget": "TranslucentTB.TranslucentTB",
+          "choco": "translucenttb",
+          "description": "Barra de tarefas transparente"
+        },
+        {
+          "name": "TrayS",
+          "winget": "TrayS.TrayS",
+          "choco": "",
+          "description": "Gerenciador de bandeja"
+        },
+        {
+          "name": "RoundedTB",
+          "winget": "RoundedTB.RoundedTB",
+          "choco": "",
+          "description": "Barra de tarefas arredondada"
+        },
+        {
+          "name": "Mactype",
+          "winget": "Mactype.Mactype",
+          "choco": "mactype",
+          "description": "Renderizacao de fontes"
+        },
+        {
+          "name": "Winaero Tweaker",
+          "winget": "Winaero.WinaeroTweaker",
+          "choco": "winaerotweaker",
+          "description": "Personalizacao do Windows"
+        },
+        {
+          "name": "O&O ShutUp10",
+          "winget": "OOSU10.OOSU10",
+          "choco": "oo-shutup10",
+          "description": "Controle de privacidade Windows"
+        },
+        {
+          "name": "Bulk Crap Uninstaller",
+          "winget": "BulkCrapUninstaller.BulkCrapUninstaller",
+          "choco": "bulk-crap-uninstaller",
+          "description": "Desinstalador em lote"
+        },
+        {
+          "name": "Geek Uninstaller",
+          "winget": "GeekUninstaller.GeekUninstaller",
+          "choco": "geekuninstaller",
+          "description": "Desinstalador leve"
+        },
+        {
+          "name": "Revo Uninstaller",
+          "winget": "RevoUninstaller.RevoUninstaller",
+          "choco": "revouninstaller",
+          "description": "Desinstalador completo"
+        },
+        {
+          "name": "HiBit Uninstaller",
+          "winget": "HiBit.HiBitUninstaller",
+          "choco": "",
+          "description": "Desinstalador"
+        },
+        {
+          "name": "BCUninstaller",
+          "winget": "BulkCrapUninstaller.BulkCrapUninstaller",
+          "choco": "",
+          "description": "Desinstalador em massa"
+        },
+        {
+          "name": "Display Driver Uninstaller",
+          "winget": "DDU.DDU",
+          "choco": "ddu",
+          "description": "Remocao de drivers graficos"
+        },
+        {
+          "name": "Snappy Driver Installer",
+          "winget": "Snappy.SnappyDriverInstaller",
+          "choco": "",
+          "description": "Instalador de drivers"
+        },
+        {
+          "name": "Driver Booster",
+          "winget": "IObit.DriverBooster",
+          "choco": "driver-booster",
+          "description": "Atualizacao de drivers"
+        },
+        {
+          "name": "Windows Update Manager",
+          "winget": "WindowsUpdateManager.WindowsUpdateManager",
+          "choco": "",
+          "description": "Gerenciador de atualizacoes"
+        },
+        {
+          "name": "Built-In",
+          "winget": "BuiltIn.BuiltIn",
+          "choco": "",
+          "description": "Utilitario do Windows"
+        }
+      ]
+    },
+    {
+      "id": "redes",
+      "name": "Redes",
+      "icon": "🌐",
+      "programs": [
+        {
+          "name": "Wireshark",
+          "winget": "WiresharkFoundation.Wireshark",
+          "choco": "wireshark",
+          "description": "Analise de protocolos"
+        },
+        {
+          "name": "Nmap",
+          "winget": "Insecure.Nmap",
+          "choco": "nmap",
+          "description": "Scanner de portas"
+        },
+        {
+          "name": "Angry IP Scanner",
+          "winget": "AngryZippy.angryip",
+          "choco": "angryip",
+          "description": "Scanner de IP"
+        },
+        {
+          "name": "Advanced IP Scanner",
+          "winget": "Famatech.AdvancedIPScanner",
+          "choco": "",
+          "description": "Scanner de rede"
+        },
+        {
+          "name": "Advanced Port Scanner",
+          "winget": "AdvancedPortScanner.AdvancedPortScanner",
+          "choco": "",
+          "description": "Scanner de portas"
+        },
+        {
+          "name": "Zenmap",
+          "winget": "Insecure.Zenmap",
+          "choco": "zenmap",
+          "description": "Interface grafica do Nmap"
+        },
+        {
+          "name": "Netcat",
+          "winget": "Netcat.Netcat",
+          "choco": "netcat",
+          "description": "Utilitario de rede"
+        },
+        {
+          "name": "cURL",
+          "winget": "cURL.cURL",
+          "choco": "curl",
+          "description": "Transferencia de dados"
+        },
+        {
+          "name": "WinSCP",
+          "winget": "WinSCP.WinSCP",
+          "choco": "winscp",
+          "description": "Cliente SFTP"
+        },
+        {
+          "name": "FileZilla",
+          "winget": "FileZilla.FileZilla",
+          "choco": "filezilla",
+          "description": "Cliente FTP"
+        },
+        {
+          "name": "Cyberduck",
+          "winget": "Cyberduck.Cyberduck",
+          "choco": "cyberduck",
+          "description": "Cliente FTP/S3"
+        },
+        {
+          "name": "WinSCP Portable",
+          "winget": "WinSCP.WinSCP.Portable",
+          "choco": "",
+          "description": "WinSCP versao portable"
+        },
+        {
+          "name": "Putty",
+          "winget": "PuTTY.PuTTY",
+          "choco": "putty",
+          "description": "Cliente SSH/Telnet"
+        },
+        {
+          "name": "KiTTY",
+          "winget": "KiTTY.KiTTY",
+          "choco": "kitty",
+          "description": "Fork do Putty com recursos extras"
+        },
+        {
+          "name": "MobaXTerm",
+          "winget": "Mobatek.MobaXTerm",
+          "choco": "mobaxterm",
+          "description": "Terminal remoto"
+        },
+        {
+          "name": "Termius",
+          "winget": "Termius.Termius",
+          "choco": "termius",
+          "description": "Cliente SSH moderno"
+        },
+        {
+          "name": "Solar-PuTTY",
+          "winget": "SolarWinds.SolarPutty",
+          "choco": "solar-putty",
+          "description": "Cliente SSH SolarWinds"
+        },
+        {
+          "name": "Bitvise SSH",
+          "winget": "Bitvise.BitviseSSH",
+          "choco": "bitvise-ssh-client",
+          "description": "Cliente SSH Bitvise"
+        },
+        {
+          "name": "TeamViewer",
+          "winget": "TeamViewer.TeamViewer",
+          "choco": "teamviewer",
+          "description": "Acesso remoto"
+        },
+        {
+          "name": "AnyDesk",
+          "winget": "AnyDesk.AnyDesk",
+          "choco": "anydesk",
+          "description": "Acesso remoto leve"
+        },
+        {
+          "name": "RustDesk",
+          "winget": "RustDesk.RustDesk",
+          "choco": "rustdesk",
+          "description": "Acesso remoto open-source"
+        },
+        {
+          "name": "Chrome Remote Desktop",
+          "winget": "Google.ChromeRemoteDesktop",
+          "choco": "",
+          "description": "Acesso remoto via Chrome"
+        },
+        {
+          "name": "TightVNC",
+          "winget": "TightVNC.TightVNC",
+          "choco": "tightvnc",
+          "description": "VNC server"
+        },
+        {
+          "name": "UltraVNC",
+          "winget": "UltraVNC.UltraVNC",
+          "choco": "ultravnc",
+          "description": "VNC avancado"
+        },
+        {
+          "name": "RealVNC",
+          "winget": "RealVNC.VNCServer",
+          "choco": "vnc-server",
+          "description": "VNC enterprise"
+        },
+        {
+          "name": "NoMachine",
+          "winget": "NoMachine.NoMachine",
+          "choco": "nomachine",
+          "description": "Acesso remoto"
+        },
+        {
+          "name": "Parsec",
+          "winget": "Parsec.Parsec",
+          "choco": "parsec",
+          "description": "Acesso remoto para games"
+        },
+        {
+          "name": "LogMeIn",
+          "winget": "LogMeIn.LogMeIn",
+          "choco": "",
+          "description": "Acesso remoto"
+        },
+        {
+          "name": "Splashtop",
+          "winget": "Splashtop.Splashtop",
+          "choco": "splashtop",
+          "description": "Acesso remoto"
+        },
+        {
+          "name": "WireGuard",
+          "winget": "WireGuard.WireGuard",
+          "choco": "wireguard",
+          "description": "VPN leve"
+        },
+        {
+          "name": "OpenVPN",
+          "winget": "OpenVPNTechnologies.OpenVPN",
+          "choco": "openvpn",
+          "description": "Cliente VPN"
+        },
+        {
+          "name": "NordVPN",
+          "winget": "NordVPN.NordVPN",
+          "choco": "nordvpn",
+          "description": "VPN NordVPN"
+        },
+        {
+          "name": "ProtonVPN",
+          "winget": "Proton.ProtonVPN",
+          "choco": "protonvpn",
+          "description": "VPN Proton"
+        },
+        {
+          "name": "Windscribe",
+          "winget": "Windscribe.Windscribe",
+          "choco": "windscribe",
+          "description": "VPN Windscribe"
+        },
+        {
+          "name": "Cloudflare WARP",
+          "winget": "Cloudflare.WARP",
+          "choco": "cloudflare-warp",
+          "description": "VPN Cloudflare"
+        },
+        {
+          "name": "ZeroTier",
+          "winget": "ZeroTier.ZeroTier",
+          "choco": "zerotier",
+          "description": "Rede virtual ZeroTier"
+        },
+        {
+          "name": "Tailscale",
+          "winget": "Tailscale.Tailscale",
+          "choco": "tailscale",
+          "description": "Rede segura simplificada"
+        },
+        {
+          "name": "Netbird",
+          "winget": "Netbird.Netbird",
+          "choco": "",
+          "description": "Rede mesh"
+        },
+        {
+          "name": "Speedtest by Ookla",
+          "winget": "Ookla.Speedtest",
+          "choco": "speedtest",
+          "description": "Teste de velocidade"
+        },
+        {
+          "name": "NetSpeedMonitor",
+          "winget": "NetSpeedMonitor.NetSpeedMonitor",
+          "choco": "",
+          "description": "Monitor de velocidade"
+        },
+        {
+          "name": "DU Meter",
+          "winget": "HagelTechnologies.DUMeter",
+          "choco": "dumeter",
+          "description": "Monitor de banda"
+        },
+        {
+          "name": "NetWorx",
+          "winget": "NetWorx.NetWorx",
+          "choco": "networx",
+          "description": "Monitor de rede"
+        },
+        {
+          "name": "GlassWire",
+          "winget": "GlassWire.GlassWire",
+          "choco": "glasswire",
+          "description": "Firewall e monitor"
+        },
+        {
+          "name": "Free Download Manager",
+          "winget": "FreeDownloadManager.FreeDownloadManager",
+          "choco": "free-download-manager",
+          "description": "Gerenciador de downloads"
+        },
+        {
+          "name": "Internet Download Manager",
+          "winget": "InternetDownloadManager.InternetDownloadManager",
+          "choco": "internet-download-manager",
+          "description": "Gerenciador de downloads IDM"
+        },
+        {
+          "name": "JDownloader 2",
+          "winget": "AppWork.JDownloader",
+          "choco": "jdownloader",
+          "description": "Gerenciador de downloads automatico"
+        },
+        {
+          "name": "qBittorrent",
+          "winget": "qBittorrent.qBittorrent",
+          "choco": "qbittorrent",
+          "description": "Cliente BitTorrent"
+        },
+        {
+          "name": "Transmission",
+          "winget": "Transmission.Transmission",
+          "choco": "transmission",
+          "description": "Cliente BitTorrent"
+        },
+        {
+          "name": "uTorrent",
+          "winget": "BitTorrent.uTorrent",
+          "choco": "utorrent",
+          "description": "Cliente BitTorrent"
+        },
+        {
+          "name": "Deluge",
+          "winget": "Deluge.Deluge",
+          "choco": "deluge",
+          "description": "Cliente BitTorrent"
+        },
+        {
+          "name": "nTorrent",
+          "winget": "nTorrent.nTorrent",
+          "choco": "",
+          "description": "Cliente BitTorrent"
+        },
+        {
+          "name": "Tixati",
+          "winget": "Tixati.Tixati",
+          "choco": "tixati",
+          "description": "Cliente BitTorrent"
+        }
+      ]
+    },
+    {
+      "id": "banco_dados",
+      "name": "Banco de Dados",
+      "icon": "🗄️",
+      "programs": [
+        {
+          "name": "DBeaver",
+          "winget": "DBeaver.DBeaver",
+          "choco": "dbeaver",
+          "description": "Cliente universal BD"
+        },
+        {
+          "name": "HeidiSQL",
+          "winget": "HeidiSQL.HeidiSQL",
+          "choco": "heidisql",
+          "description": "Gerenciador SQL"
+        },
+        {
+          "name": "MySQL Workbench",
+          "winget": "Oracle.MySQLWorkbench",
+          "choco": "mysql.workbench",
+          "description": "Ferramenta MySQL"
+        },
+        {
+          "name": "pgAdmin",
+          "winget": "PostgreSQL.pgAdmin",
+          "choco": "pgadmin4",
+          "description": "Admin PostgreSQL"
+        },
+        {
+          "name": "DBeaver Lite",
+          "winget": "DBeaver.DBeaver.Lite",
+          "choco": "",
+          "description": "Versao leve DBeaver"
+        },
+        {
+          "name": "Azure Data Studio",
+          "winget": "Microsoft.AzureDataStudio",
+          "choco": "azure-data-studio",
+          "description": "BD multiplataforma"
+        },
+        {
+          "name": "SQL Server Management Studio",
+          "winget": "Microsoft.SQLServerManagementStudio",
+          "choco": "ssms",
+          "description": "Gerenciamento SQL Server"
+        },
+        {
+          "name": "SQL Server Management Studio 19",
+          "winget": "Microsoft.SQLServerManagementStudio.19",
+          "choco": "",
+          "description": "SSMS 19"
+        },
+        {
+          "name": "MongoDB Compass",
+          "winget": "MongoDB.Compass.Full",
+          "choco": "mongodb-compass",
+          "description": "GUI MongoDB"
+        },
+        {
+          "name": "MongoDB Compass Readonly",
+          "winget": "MongoDB.Compass.Readonly",
+          "choco": "",
+          "description": "Compass read-only"
+        },
+        {
+          "name": "MongoDB Compass Isolated",
+          "winget": "MongoDB.Compass.Isolated",
+          "choco": "",
+          "description": "Compass isolado"
+        },
+        {
+          "name": "Redis Insight",
+          "winget": "Redis.RedisInsight",
+          "choco": "redis-insight",
+          "description": "GUI Redis"
+        },
+        {
+          "name": "Redis Desktop Manager",
+          "winget": "RedisDesktopManager.RedisDesktopManager",
+          "choco": "redis-desktop-manager",
+          "description": "Gerenciador Redis"
+        },
+        {
+          "name": "TablePlus",
+          "winget": "TablePlus.TablePlus",
+          "choco": "tableplus",
+          "description": "Cliente BD moderno"
+        },
+        {
+          "name": "DataGrip",
+          "winget": "JetBrains.DataGrip",
+          "choco": "datagrip",
+          "description": "IDE SQL DataGrip"
+        },
+        {
+          "name": "Navicat Premium",
+          "winget": "Navicat.NavicatPremium",
+          "choco": "navicat",
+          "description": "Gerenciador BD premium"
+        },
+        {
+          "name": "Navicat for MySQL",
+          "winget": "Navicat.NavicatforMySQL",
+          "choco": "",
+          "description": "Navicat MySQL"
+        },
+        {
+          "name": "Navicat for PostgreSQL",
+          "winget": "Navicat.NavicatforPostgreSQL",
+          "choco": "",
+          "description": "Navicat PostgreSQL"
+        },
+        {
+          "name": "Navicat for SQL Server",
+          "winget": "Navicat.NavicatforSQLServer",
+          "choco": "",
+          "description": "Navicat SQL Server"
+        },
+        {
+          "name": "Toad for MySQL",
+          "winget": "Quest.ToadforMySQL",
+          "choco": "",
+          "description": "Ferramenta MySQL"
+        },
+        {
+          "name": "Toad for SQL Server",
+          "winget": "Quest.ToadforSQLServer",
+          "choco": "",
+          "description": "Ferramenta SQL Server"
+        },
+        {
+          "name": "Aqua Data Studio",
+          "winget": "AquaFold.AquaDataStudio",
+          "choco": "aqua-data-studio",
+          "description": "IDE BD"
+        },
+        {
+          "name": "DbVisualizer",
+          "winget": "DbVisualizer.DbVisualizer",
+          "choco": "dbvisualizer",
+          "description": "Ferramenta BD universal"
+        },
+        {
+          "name": "SQLite Studio",
+          "winget": "SQLiteStudio.SQLiteStudio",
+          "choco": "sqlitestudio",
+          "description": "Gerenciador SQLite"
+        },
+        {
+          "name": "SQLite Browser",
+          "winget": "SQLiteBrowser.SQLiteBrowser",
+          "choco": "sqlitebrowser",
+          "description": "Navegador SQLite"
+        },
+        {
+          "name": "DB Browser for SQLite",
+          "winget": "DBBrowserForSQLite.DBBrowserForSQLite",
+          "choco": "db-browser-for-sqlite",
+          "description": "SQLite visual"
+        },
+        {
+          "name": "SQLite Expert",
+          "winget": "SQLiteExpert.SQLiteExpert",
+          "choco": "",
+          "description": "Ferramenta SQLite"
+        },
+        {
+          "name": "Valentina Studio",
+          "winget": "Valentina.ValentinaStudio",
+          "choco": "valentina-studio",
+          "description": "Ferramenta BD"
+        },
+        {
+          "name": "Adminer",
+          "winget": "Adminer.Adminer",
+          "choco": "",
+          "description": "Gerenciador BD web"
+        },
+        {
+          "name": "phpMyAdmin",
+          "winget": "phpMyAdmin.phpMyAdmin",
+          "choco": "phpmyadmin",
+          "description": "Admin MySQL web"
+        },
+        {
+          "name": "PostgreSQL",
+          "winget": "PostgreSQL.PostgreSQL",
+          "choco": "postgresql",
+          "description": "Banco PostgreSQL"
+        },
+        {
+          "name": "MySQL",
+          "winget": "Oracle.MySQL",
+          "choco": "mysql",
+          "description": "Banco MySQL"
+        },
+        {
+          "name": "MariaDB",
+          "winget": "MariaDB.MariaDB",
+          "choco": "mariadb",
+          "description": "Banco MariaDB"
+        },
+        {
+          "name": "MongoDB",
+          "winget": "MongoDB.Server",
+          "choco": "mongodb",
+          "description": "Banco MongoDB"
+        },
+        {
+          "name": "Redis",
+          "winget": "Redis.Redis",
+          "choco": "redis-64",
+          "description": "Cache Redis"
+        },
+        {
+          "name": "Memcached",
+          "winget": "Memcached.Memcached",
+          "choco": "memcached",
+          "description": "Cache Memcached"
+        },
+        {
+          "name": "Cassandra",
+          "winget": "Cassandra.Cassandra",
+          "choco": "cassandra",
+          "description": "Banco Cassandra"
+        },
+        {
+          "name": "CouchDB",
+          "winget": "Apache.CouchDB",
+          "choco": "couchdb",
+          "description": "Banco CouchDB"
+        },
+        {
+          "name": "SQLite",
+          "winget": "SQLite.SQLite",
+          "choco": "sqlite",
+          "description": "Banco SQLite"
+        },
+        {
+          "name": "Microsoft SQL Server Express",
+          "winget": "Microsoft.SQLServer.Express",
+          "choco": "",
+          "description": "SQL Server Express"
+        },
+        {
+          "name": "Microsoft SQL Server Developer",
+          "winget": "Microsoft.SQLServer.Developer",
+          "choco": "",
+          "description": "SQL Server Developer"
+        },
+        {
+          "name": "Oracle Database Express",
+          "winget": "Oracle.OracleDBExpress",
+          "choco": "",
+          "description": "Oracle Express"
+        },
+        {
+          "name": "Firebird",
+          "winget": "Firebird.Firebird",
+          "choco": "firebird",
+          "description": "Banco Firebird"
+        },
+        {
+          "name": "SQL Workbench",
+          "winget": "SQLWorkbench.SQLWorkbench",
+          "choco": "",
+          "description": "Ferramenta SQL multipla"
+        },
+        {
+          "name": "Flyway",
+          "winget": "Flyway.Flyway",
+          "choco": "flyway",
+          "description": "Migracao de BD"
+        },
+        {
+          "name": "Liquibase",
+          "winget": "Liquibase.Liquibase",
+          "choco": "liquibase",
+          "description": "Gerenciamento de mudancas BD"
+        },
+        {
+          "name": "Sqitch",
+          "winget": "Sqitch.Sqitch",
+          "choco": "",
+          "description": "Migracao de BD"
+        },
+        {
+          "name": "DbSchema",
+          "winget": "DbSchema.DbSchema",
+          "choco": "",
+          "description": "Designer de BD"
+        },
+        {
+          "name": "ERWin",
+          "winget": "ERWin.ERWin",
+          "choco": "",
+          "description": "Modelagem de dados"
+        },
+        {
+          "name": "Paradigma",
+          "winget": "Paradigma.Paradigma",
+          "choco": "",
+          "description": "Ferramenta de BD"
+        },
+        {
+          "name": "RazorSQL",
+          "winget": "RazorSQL.RazorSQL",
+          "choco": "razorsql",
+          "description": "Editor SQL"
+        },
+        {
+          "name": "SQuirreL SQL",
+          "winget": "SQuirreLSQL.SQuirreLSQL",
+          "choco": "squirrelsql",
+          "description": "Cliente SQL"
+        }
+      ]
+    },
+    {
+      "id": "jogos",
+      "name": "Jogos",
+      "icon": "🎮",
+      "programs": [
+        {
+          "name": "Steam",
+          "winget": "Valve.Steam",
+          "choco": "steam",
+          "description": "Plataforma de jogos Steam"
+        },
+        {
+          "name": "Steam Beta",
+          "winget": "Valve.Steam.Beta",
+          "choco": "",
+          "description": "Steam versao Beta"
+        },
+        {
+          "name": "Epic Games Launcher",
+          "winget": "EpicGames.EpicGamesLauncher",
+          "choco": "epic-games-launcher",
+          "description": "Plataforma Epic Games"
+        },
+        {
+          "name": "GOG Galaxy",
+          "winget": "GOG.Galaxy",
+          "choco": "goggalaxy",
+          "description": "Plataforma GOG"
+        },
+        {
+          "name": "Ubisoft Connect",
+          "winget": "Ubisoft.Connect",
+          "choco": "ubisoft-connect",
+          "description": "Plataforma Ubisoft"
+        },
+        {
+          "name": "EA App",
+          "winget": "ElectronicArts.EAapp",
+          "choco": "ea-app",
+          "description": "Plataforma EA"
+        },
+        {
+          "name": "Battle.net",
+          "winget": "Blizzard.BattleNet",
+          "choco": "battle-net",
+          "description": "Plataforma Blizzard"
+        },
+        {
+          "name": "itch.io",
+          "winget": "itch.itch",
+          "choco": "itch",
+          "description": "Plataforma indie"
+        },
+        {
+          "name": "Humble Bundle App",
+          "winget": "HumbleBundle.HumbleApp",
+          "choco": "humble-app",
+          "description": "Humble Bundle"
+        },
+        {
+          "name": "Playnite",
+          "winget": "Playnite.Playnite",
+          "choco": "playnite",
+          "description": "Gerenciador de jogos"
+        },
+        {
+          "name": "GameHub",
+          "winget": "GameHub.GameHub",
+          "choco": "",
+          "description": "Central de jogos"
+        },
+        {
+          "name": "LaunchBox",
+          "winget": "LaunchBox.LaunchBox",
+          "choco": "launchbox",
+          "description": "Frontend para emuladores"
+        },
+        {
+          "name": "RetroArch",
+          "winget": "RetroArch.RetroArch",
+          "choco": "retroarch",
+          "description": "Emulador multi-sistema"
+        },
+        {
+          "name": "Dolphin Emulator",
+          "winget": "DolphinEmulator.Dolphin",
+          "choco": "dolphin",
+          "description": "Emulador GameCube/Wii"
+        },
+        {
+          "name": "PCSX2",
+          "winget": "PCSX2.PCSX2",
+          "choco": "pcsx2",
+          "description": "Emulador PS2"
+        },
+        {
+          "name": "RPCS3",
+          "winget": "RPCS3.RPCS3",
+          "choco": "rpcs3",
+          "description": "Emulador PS3"
+        },
+        {
+          "name": "Cemu",
+          "winget": "Cemu.Cemu",
+          "choco": "cemu",
+          "description": "Emulador Wii U"
+        },
+        {
+          "name": "Yuzu",
+          "winget": "YuzuEmu.Yuzu",
+          "choco": "yuzu",
+          "description": "Emulador Nintendo Switch"
+        },
+        {
+          "name": "Ryujinx",
+          "winget": "Ryujinx.Ryujinx",
+          "choco": "ryujinx",
+          "description": "Emulador Nintendo Switch"
+        },
+        {
+          "name": "Citra",
+          "winget": "Citra.Citra",
+          "choco": "citra",
+          "description": "Emulador 3DS"
+        },
+        {
+          "name": "PPSSPP",
+          "winget": "PPSSPP.PPSSPP",
+          "choco": "ppsspp",
+          "description": "Emulador PSP"
+        },
+        {
+          "name": "ePSXe",
+          "winget": "EPSXe.EPSXe",
+          "choco": "epsxe",
+          "description": "Emulador PS1"
+        },
+        {
+          "name": "mGBA",
+          "winget": "mGBA.mGBA",
+          "choco": "mgba",
+          "description": "Emulador Game Boy Advance"
+        },
+        {
+          "name": "DeSmuME",
+          "winget": "DeSmuME.DeSmuME",
+          "choco": "desmume",
+          "description": "Emulador Nintendo DS"
+        },
+        {
+          "name": "MelonDS",
+          "winget": "MelonDS.MelonDS",
+          "choco": "melonds",
+          "description": "Emulador Nintendo DS"
+        },
+        {
+          "name": "Xenia",
+          "winget": "Xenia.Xenia",
+          "choco": "xenia",
+          "description": "Emulador Xbox 360"
+        },
+        {
+          "name": "MAME",
+          "winget": "MAME.MAME",
+          "choco": "mame",
+          "description": "Emulador arcade"
+        },
+        {
+          "name": "ScummVM",
+          "winget": "ScummVM.ScummVM",
+          "choco": "scummvm",
+          "description": "Emulador jogos adventure"
+        },
+        {
+          "name": "DOSBox",
+          "winget": "DOSBox.DOSBox",
+          "choco": "dosbox",
+          "description": "Emulador DOS"
+        },
+        {
+          "name": "DOSBox-X",
+          "winget": "DOSBox-X.DOSBox-X",
+          "choco": "dosbox-x",
+          "description": "Fork do DOSBox"
+        },
+        {
+          "name": "OBS Studio",
+          "winget": "OBSProject.OBSStudio",
+          "choco": "obs-studio",
+          "description": "Gravacao e streaming"
+        },
+        {
+          "name": "GeForce Experience",
+          "winget": "NVIDIA.GeForceExperience",
+          "choco": "nvidia-geforce-experience",
+          "description": "Otimizacao de jogos NVIDIA"
+        },
+        {
+          "name": "AMD Adrenalin",
+          "winget": "AMD.Adrenalin",
+          "choco": "",
+          "description": "Drivers AMD"
+        },
+        {
+          "name": "MSI Afterburner",
+          "winget": "MSI.Afterburner",
+          "choco": "msiafterburner",
+          "description": "Overclock e monitoramento"
+        },
+        {
+          "name": "RivaTuner",
+          "winget": "RivaTuner.RivaTuner",
+          "choco": "rivatuner",
+          "description": "Monitoramento GPU"
+        },
+        {
+          "name": "Discord",
+          "winget": "Discord.Discord",
+          "choco": "discord",
+          "description": "Comunicacao para gamers"
+        },
+        {
+          "name": "TeamSpeak",
+          "winget": "TeamSpeak.TeamSpeak",
+          "choco": "teamspeak",
+          "description": "Comunicacao por voz"
+        },
+        {
+          "name": "Mumble",
+          "winget": "Mumble.Mumble",
+          "choco": "mumble",
+          "description": "Comunicacao por voz"
+        },
+        {
+          "name": "Xbox Game Bar",
+          "winget": "Microsoft.XboxGameBar",
+          "choco": "",
+          "description": "Game Bar Windows"
+        },
+        {
+          "name": "Unity Hub",
+          "winget": "Unity.UnityHub",
+          "choco": "unity-hub",
+          "description": "Game engine Unity"
+        },
+        {
+          "name": "Godot Engine",
+          "winget": "GodotGodot.GodotEngine",
+          "choco": "godot",
+          "description": "Game engine Godot"
+        },
+        {
+          "name": "RPG Maker MV",
+          "winget": "RPGMaker.RPGMakerMV",
+          "choco": "rpg-maker-mv",
+          "description": "Criacao de jogos RPG"
+        },
+        {
+          "name": "GameMaker Studio 2",
+          "winget": "YoYoGames.GameMakerStudio2",
+          "choco": "gamemaker-studio",
+          "description": "Game engine 2D"
+        },
+        {
+          "name": "Construct 3",
+          "winget": "Construct.Construct3",
+          "choco": "",
+          "description": "Game engine baseado em navegador"
+        }
+      ]
+    }
+  ]
+}

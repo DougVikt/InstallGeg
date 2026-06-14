@@ -1,0 +1,15 @@
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\bin\Debug\net8.0-windows\Resources\instalador.ico
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\bin\Debug\net8.0-windows\InstaladorGeral.deps.json
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\bin\Debug\net8.0-windows\InstaladorGeral.runtimeconfig.json
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\bin\Debug\net8.0-windows\InstaladorGeral.dll
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\bin\Debug\net8.0-windows\InstaladorGeral.pdb
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\obj\Debug\net8.0-windows\instalador_geral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\obj\Debug\net8.0-windows\instalador_geral.AssemblyInfoInputs.cache
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\obj\Debug\net8.0-windows\instalador_geral.AssemblyInfo.cs
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\obj\Debug\net8.0-windows\instalador_geral.csproj.CoreCompileInputs.cache
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\obj\Debug\net8.0-windows\instalador_geral.sourcelink.json
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\obj\Debug\net8.0-windows\InstaladorGeral.dll
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\obj\Debug\net8.0-windows\refint\InstaladorGeral.dll
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\obj\Debug\net8.0-windows\InstaladorGeral.pdb
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\obj\Debug\net8.0-windows\instalador_geral.genruntimeconfig.cache
+C:\Users\DOUG\Documents\PROGRAMAÇÃO\CODIGOS2\InstallWeg\obj\Debug\net8.0-windows\ref\InstaladorGeral.dll
