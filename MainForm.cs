@@ -25,6 +25,23 @@ public partial class MainForm : Form
         InitializeCategories();
         UpdateStatusBar();
         UpdateButtonStates();
+        CheckManagersAtStartup();
+    }
+
+    private void CheckManagersAtStartup()
+    {
+        if (!_engine.WingetAvailable && !_engine.ChocoAvailable)
+        {
+            using var setup = new SetupForm(_engine);
+            if (setup.ShowDialog(this) == DialogResult.Cancel)
+            {
+                MessageBox.Show(
+                    "O programa precisa de pelo menos um gerenciador (winget ou chocolatey) para funcionar.",
+                    "Gerenciador necessario", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+            UpdateStatusBar();
+            UpdateButtonStates();
+        }
     }
 
     private void LoadCategories()
@@ -100,7 +117,10 @@ public partial class MainForm : Form
         btn.ForeColor = Color.White;
         _activeCategoryButton = btn;
 
-        lblCategoryTitle.Text = $"{cat.Icon}  {cat.Name}  ({cat.Programs.Count} programas)";
+        var progCount = cat.Programs.Count;
+        lblCategoryTitle.Text = progCount > 100
+            ? $"{cat.Icon}  {cat.Name}  (100+)"
+            : $"{cat.Icon}  {cat.Name}  ({progCount} programas)";
         txtSearch.Clear();
         LoadPrograms(cat, "");
     }
