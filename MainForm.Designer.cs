@@ -100,7 +100,7 @@ partial class MainForm
         btnInstalar.Click += BtnInstalar_Click;
 
         // lblContador
-        lblContador.Text = "Instalador Geral";
+        lblContador.Text = "InstallGet";
         lblContador.Font = new Font("Segoe UI", 16, FontStyle.Bold);
         lblContador.ForeColor = Color.White;
         lblContador.Location = new Point(16, 14);
@@ -212,9 +212,10 @@ partial class MainForm
         BackColor = Color.FromArgb(30, 30, 30);
         ForeColor = Color.FromArgb(200, 200, 200);
         Font = new Font("Segoe UI", 10);
-        Text = "Instalador Geral";
+        Text = "InstallGet";
         StartPosition = FormStartPosition.CenterScreen;
-        Icon = new Icon(Path.Combine(Application.StartupPath, "Resources", "instalador.ico"));
+        using (var iconStream = typeof(MainForm).Assembly.GetManifestResourceStream("InstaladorGeral.Resources.instalador.ico"))
+            if (iconStream != null) Icon = new Icon(iconStream);
 
         topBar.ResumeLayout(false);
         topBar.PerformLayout();

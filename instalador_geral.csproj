@@ -16,12 +16,7 @@
 
   <ItemGroup>
     <EmbeddedResource Include="Resources\categories.json" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="Resources\instalador.ico">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
+    <EmbeddedResource Include="Resources\instalador.ico" />
   </ItemGroup>
 
 </Project>
