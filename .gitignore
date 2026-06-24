@@ -1,18 +1,14 @@
-# .NET
-bin/
-obj/
-*.user
-*.suo
-*.sln.docstates
-.vs/
-*.log
-*.tmp
-*.cache
-*.nupkg
-TestResults/
+# Rust
+target/
+Cargo.lock
 
 # IDE
 *.swp
 *~
 .DS_Store
 Thumbs.db
+
+
+# Added by cargo
+
+/target
