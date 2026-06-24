@@ -1,0 +1,25 @@
+DIRETRIZES DO INSTALLGET 
+
+= OBJETIVO:
+    - instalar programas para plataformas desktops 
+    - facil instalação
+= COMO VAI FAZER : 
+    - via comandos cli 
+= PUBLICO ALVO:
+    - primeiramente tecnicos que utilizam frequentimente no suporte 
+    - usuario em geral 
+= OUTROS DETALHES :
+    - arquitetura multiplataforma 
+    - linguagem compativel entre todas , usando a rust 
+        - melhor em desempenho 
+        - compatibiliade em multiplataformas
+        - usa comandos nativos sem perca de desempenho
+    - usar via comandos cli 
+    - tem uma interface grafica leve e intuitiva 
+    - tem apps separados por categorias 
+    - buscador avançado 
+    - identifica qual sistema esta sendo executada 
+    - conectar com a rede para busca de atualizações 
+        - conecção de modo seguro 
+    - verifica instaladores nativos de cada sistema
+    - interface grafica com o egui
