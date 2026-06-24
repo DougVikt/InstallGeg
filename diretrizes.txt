@@ -1,4 +1,4 @@
-DIRETRIZES DO INSTALLGET 
+DIRETRIZES DO INSTALLGET v0.1.0
 
 = OBJETIVO:
     - instalar programas para plataformas desktops 
@@ -23,3 +23,5 @@ DIRETRIZES DO INSTALLGET
         - conecção de modo seguro 
     - verifica instaladores nativos de cada sistema
     - interface grafica com o egui
+ = DESENVOLVIMENTO:
+    - usar o make para facilitar comandos rotineiros
